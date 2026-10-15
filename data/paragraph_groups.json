@@ -1,0 +1,9067 @@
+[
+  {
+    "start_ref": "0x0C2070",
+    "end_ref": "0x0C2080",
+    "entries": [
+      {
+        "ref": "0x0C2070",
+        "offset": "0x04F580",
+        "japanese": {
+          "$rom_cp932": [
+            324992,
+            4
+          ]
+        },
+        "bytes": "4"
+      },
+      {
+        "ref": "0x0C2074",
+        "offset": "0x04F578",
+        "japanese": {
+          "$rom_cp932": [
+            324984,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2078",
+        "offset": "0x04F570",
+        "japanese": {
+          "$rom_cp932": [
+            324970,
+            4
+          ]
+        },
+        "bytes": "4"
+      },
+      {
+        "ref": "0x0C207C",
+        "offset": "0x04F568",
+        "japanese": {
+          "$rom_cp932": [
+            324968,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2080",
+        "offset": "0x04F560",
+        "japanese": {
+          "$rom_cp932": [
+            324960,
+            4
+          ]
+        },
+        "bytes": "4"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C22CC",
+    "end_ref": "0x0C22E8",
+    "entries": [
+      {
+        "ref": "0x0C22CC",
+        "offset": "0x052F2C",
+        "japanese": {
+          "$rom_cp932": [
+            339756,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22D0",
+        "offset": "0x052F18",
+        "japanese": {
+          "$rom_cp932": [
+            339736,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22D4",
+        "offset": "0x052F04",
+        "japanese": {
+          "$rom_cp932": [
+            339716,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22D8",
+        "offset": "0x052EF0",
+        "japanese": {
+          "$rom_cp932": [
+            339696,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22DC",
+        "offset": "0x052EDC",
+        "japanese": {
+          "$rom_cp932": [
+            339676,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22E0",
+        "offset": "0x052EC8",
+        "japanese": {
+          "$rom_cp932": [
+            339656,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22E4",
+        "offset": "0x052EB4",
+        "japanese": {
+          "$rom_cp932": [
+            339636,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22E8",
+        "offset": "0x052EAC",
+        "japanese": {
+          "$rom_cp932": [
+            327578,
+            6
+          ]
+        },
+        "bytes": "6"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C22F0",
+    "end_ref": "0x0C2308",
+    "entries": [
+      {
+        "ref": "0x0C22F0",
+        "offset": "0x052E9C",
+        "japanese": {
+          "$rom_cp932": [
+            339612,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C22F4",
+        "offset": "0x052E88",
+        "japanese": {
+          "$rom_cp932": [
+            339592,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22F8",
+        "offset": "0x052E74",
+        "japanese": {
+          "$rom_cp932": [
+            339572,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C22FC",
+        "offset": "0x052E60",
+        "japanese": {
+          "$rom_cp932": [
+            339552,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2300",
+        "offset": "0x052E4C",
+        "japanese": {
+          "$rom_cp932": [
+            339532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2304",
+        "offset": "0x052E38",
+        "japanese": {
+          "$rom_cp932": [
+            339512,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2308",
+        "offset": "0x052E2C",
+        "japanese": {
+          "$rom_cp932": [
+            329902,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2314",
+    "end_ref": "0x0C232C",
+    "entries": [
+      {
+        "ref": "0x0C2314",
+        "offset": "0x052E14",
+        "japanese": {
+          "$rom_cp932": [
+            339476,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2318",
+        "offset": "0x052E00",
+        "japanese": {
+          "$rom_cp932": [
+            339456,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C231C",
+        "offset": "0x052DEC",
+        "japanese": {
+          "$rom_cp932": [
+            339436,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2320",
+        "offset": "0x052DE0",
+        "japanese": {
+          "$rom_cp932": [
+            339424,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2324",
+        "offset": "0x052DCC",
+        "japanese": {
+          "$rom_cp932": [
+            339404,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2328",
+        "offset": "0x052DB8",
+        "japanese": {
+          "$rom_cp932": [
+            339384,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C232C",
+        "offset": "0x052DA4",
+        "japanese": {
+          "$rom_cp932": [
+            339364,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2338",
+    "end_ref": "0x0C2354",
+    "entries": [
+      {
+        "ref": "0x0C2338",
+        "offset": "0x052D90",
+        "japanese": {
+          "$rom_cp932": [
+            339344,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C233C",
+        "offset": "0x052D7C",
+        "japanese": {
+          "$rom_cp932": [
+            339324,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2340",
+        "offset": "0x052D68",
+        "japanese": {
+          "$rom_cp932": [
+            339304,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2344",
+        "offset": "0x052D54",
+        "japanese": {
+          "$rom_cp932": [
+            339284,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2348",
+        "offset": "0x052D44",
+        "japanese": {
+          "$rom_cp932": [
+            339268,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C234C",
+        "offset": "0x052D30",
+        "japanese": {
+          "$rom_cp932": [
+            339248,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2350",
+        "offset": "0x052D1C",
+        "japanese": {
+          "$rom_cp932": [
+            339228,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2354",
+        "offset": "0x052D10",
+        "japanese": {
+          "$rom_cp932": [
+            327852,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C235C",
+    "end_ref": "0x0C2378",
+    "entries": [
+      {
+        "ref": "0x0C235C",
+        "offset": "0x052CFC",
+        "japanese": {
+          "$rom_cp932": [
+            339196,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2360",
+        "offset": "0x052CE8",
+        "japanese": {
+          "$rom_cp932": [
+            339176,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2364",
+        "offset": "0x052CD8",
+        "japanese": {
+          "$rom_cp932": [
+            339160,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2368",
+        "offset": "0x052CC4",
+        "japanese": {
+          "$rom_cp932": [
+            339140,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C236C",
+        "offset": "0x052CB0",
+        "japanese": {
+          "$rom_cp932": [
+            339120,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2370",
+        "offset": "0x052C9C",
+        "japanese": {
+          "$rom_cp932": [
+            339100,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2374",
+        "offset": "0x052C88",
+        "japanese": {
+          "$rom_cp932": [
+            339080,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2378",
+        "offset": "0x052C74",
+        "japanese": {
+          "$rom_cp932": [
+            339060,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2380",
+    "end_ref": "0x0C239C",
+    "entries": [
+      {
+        "ref": "0x0C2380",
+        "offset": "0x052C60",
+        "japanese": {
+          "$rom_cp932": [
+            339040,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2384",
+        "offset": "0x052C4C",
+        "japanese": {
+          "$rom_cp932": [
+            339020,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2388",
+        "offset": "0x052C38",
+        "japanese": {
+          "$rom_cp932": [
+            339000,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C238C",
+        "offset": "0x052C24",
+        "japanese": {
+          "$rom_cp932": [
+            338980,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2390",
+        "offset": "0x052C10",
+        "japanese": {
+          "$rom_cp932": [
+            338960,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2394",
+        "offset": "0x052BFC",
+        "japanese": {
+          "$rom_cp932": [
+            338940,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2398",
+        "offset": "0x052BE8",
+        "japanese": {
+          "$rom_cp932": [
+            338920,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C239C",
+        "offset": "0x052BDC",
+        "japanese": {
+          "$rom_cp932": [
+            326130,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C23A4",
+    "end_ref": "0x0C23B8",
+    "entries": [
+      {
+        "ref": "0x0C23A4",
+        "offset": "0x052BC8",
+        "japanese": {
+          "$rom_cp932": [
+            338888,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23A8",
+        "offset": "0x052BB4",
+        "japanese": {
+          "$rom_cp932": [
+            338868,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23AC",
+        "offset": "0x052BA0",
+        "japanese": {
+          "$rom_cp932": [
+            338848,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23B0",
+        "offset": "0x052B8C",
+        "japanese": {
+          "$rom_cp932": [
+            338828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23B4",
+        "offset": "0x052B78",
+        "japanese": {
+          "$rom_cp932": [
+            338808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23B8",
+        "offset": "0x052B68",
+        "japanese": {
+          "$rom_cp932": [
+            337422,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C23C8",
+    "end_ref": "0x0C23E4",
+    "entries": [
+      {
+        "ref": "0x0C23C8",
+        "offset": "0x052B54",
+        "japanese": {
+          "$rom_cp932": [
+            338772,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23CC",
+        "offset": "0x052B40",
+        "japanese": {
+          "$rom_cp932": [
+            338752,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23D0",
+        "offset": "0x052B2C",
+        "japanese": {
+          "$rom_cp932": [
+            338732,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23D4",
+        "offset": "0x052B18",
+        "japanese": {
+          "$rom_cp932": [
+            338712,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23D8",
+        "offset": "0x052B04",
+        "japanese": {
+          "$rom_cp932": [
+            338692,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23DC",
+        "offset": "0x052AF0",
+        "japanese": {
+          "$rom_cp932": [
+            338672,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23E0",
+        "offset": "0x052ADC",
+        "japanese": {
+          "$rom_cp932": [
+            338652,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23E4",
+        "offset": "0x052AD0",
+        "japanese": {
+          "$rom_cp932": [
+            326738,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C23EC",
+    "end_ref": "0x0C2408",
+    "entries": [
+      {
+        "ref": "0x0C23EC",
+        "offset": "0x052ABC",
+        "japanese": {
+          "$rom_cp932": [
+            338620,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23F0",
+        "offset": "0x052AA8",
+        "japanese": {
+          "$rom_cp932": [
+            338600,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23F4",
+        "offset": "0x052A94",
+        "japanese": {
+          "$rom_cp932": [
+            338580,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C23F8",
+        "offset": "0x052A88",
+        "japanese": {
+          "$rom_cp932": [
+            330180,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C23FC",
+        "offset": "0x052A74",
+        "japanese": {
+          "$rom_cp932": [
+            338548,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2400",
+        "offset": "0x052A60",
+        "japanese": {
+          "$rom_cp932": [
+            338528,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2404",
+        "offset": "0x052A4C",
+        "japanese": {
+          "$rom_cp932": [
+            338508,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2408",
+        "offset": "0x052A38",
+        "japanese": {
+          "$rom_cp932": [
+            338488,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2410",
+    "end_ref": "0x0C242C",
+    "entries": [
+      {
+        "ref": "0x0C2410",
+        "offset": "0x052A24",
+        "japanese": {
+          "$rom_cp932": [
+            338468,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2414",
+        "offset": "0x052A10",
+        "japanese": {
+          "$rom_cp932": [
+            338448,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2418",
+        "offset": "0x0529FC",
+        "japanese": {
+          "$rom_cp932": [
+            338428,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C241C",
+        "offset": "0x0529E8",
+        "japanese": {
+          "$rom_cp932": [
+            338408,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2420",
+        "offset": "0x0529D4",
+        "japanese": {
+          "$rom_cp932": [
+            338388,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2424",
+        "offset": "0x0529C0",
+        "japanese": {
+          "$rom_cp932": [
+            338368,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2428",
+        "offset": "0x0529AC",
+        "japanese": {
+          "$rom_cp932": [
+            338348,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C242C",
+        "offset": "0x052998",
+        "japanese": {
+          "$rom_cp932": [
+            338328,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2434",
+    "end_ref": "0x0C2450",
+    "entries": [
+      {
+        "ref": "0x0C2434",
+        "offset": "0x052984",
+        "japanese": {
+          "$rom_cp932": [
+            338308,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2438",
+        "offset": "0x052970",
+        "japanese": {
+          "$rom_cp932": [
+            338288,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C243C",
+        "offset": "0x05295C",
+        "japanese": {
+          "$rom_cp932": [
+            338268,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2440",
+        "offset": "0x052948",
+        "japanese": {
+          "$rom_cp932": [
+            338248,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2444",
+        "offset": "0x052938",
+        "japanese": {
+          "$rom_cp932": [
+            338232,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2448",
+        "offset": "0x052924",
+        "japanese": {
+          "$rom_cp932": [
+            338212,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C244C",
+        "offset": "0x052910",
+        "japanese": {
+          "$rom_cp932": [
+            338192,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2450",
+        "offset": "0x052900",
+        "japanese": {
+          "$rom_cp932": [
+            338176,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2458",
+    "end_ref": "0x0C2474",
+    "entries": [
+      {
+        "ref": "0x0C2458",
+        "offset": "0x0528EC",
+        "japanese": {
+          "$rom_cp932": [
+            338156,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C245C",
+        "offset": "0x0528D8",
+        "japanese": {
+          "$rom_cp932": [
+            338136,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2460",
+        "offset": "0x0528C4",
+        "japanese": {
+          "$rom_cp932": [
+            338116,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2464",
+        "offset": "0x0528B0",
+        "japanese": {
+          "$rom_cp932": [
+            338096,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2468",
+        "offset": "0x05289C",
+        "japanese": {
+          "$rom_cp932": [
+            338076,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C246C",
+        "offset": "0x052888",
+        "japanese": {
+          "$rom_cp932": [
+            338056,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2470",
+        "offset": "0x052874",
+        "japanese": {
+          "$rom_cp932": [
+            338036,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2474",
+        "offset": "0x052860",
+        "japanese": {
+          "$rom_cp932": [
+            338016,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C247C",
+    "end_ref": "0x0C2498",
+    "entries": [
+      {
+        "ref": "0x0C247C",
+        "offset": "0x05284C",
+        "japanese": {
+          "$rom_cp932": [
+            337996,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2480",
+        "offset": "0x052838",
+        "japanese": {
+          "$rom_cp932": [
+            337976,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2484",
+        "offset": "0x052830",
+        "japanese": {
+          "$rom_cp932": [
+            326522,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2488",
+        "offset": "0x05281C",
+        "japanese": {
+          "$rom_cp932": [
+            337948,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C248C",
+        "offset": "0x052808",
+        "japanese": {
+          "$rom_cp932": [
+            337928,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2490",
+        "offset": "0x0527F4",
+        "japanese": {
+          "$rom_cp932": [
+            328906,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2494",
+        "offset": "0x0527E0",
+        "japanese": {
+          "$rom_cp932": [
+            337888,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2498",
+        "offset": "0x0527CC",
+        "japanese": {
+          "$rom_cp932": [
+            337868,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C24A0",
+    "end_ref": "0x0C24BC",
+    "entries": [
+      {
+        "ref": "0x0C24A0",
+        "offset": "0x0527B8",
+        "japanese": {
+          "$rom_cp932": [
+            337848,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24A4",
+        "offset": "0x0527A4",
+        "japanese": {
+          "$rom_cp932": [
+            337828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24A8",
+        "offset": "0x052790",
+        "japanese": {
+          "$rom_cp932": [
+            337808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24AC",
+        "offset": "0x052784",
+        "japanese": {
+          "$rom_cp932": [
+            327854,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C24B0",
+        "offset": "0x052770",
+        "japanese": {
+          "$rom_cp932": [
+            337776,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24B4",
+        "offset": "0x05275C",
+        "japanese": {
+          "$rom_cp932": [
+            337756,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24B8",
+        "offset": "0x052748",
+        "japanese": {
+          "$rom_cp932": [
+            337736,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24BC",
+        "offset": "0x052738",
+        "japanese": {
+          "$rom_cp932": [
+            337720,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C24C4",
+    "end_ref": "0x0C24E0",
+    "entries": [
+      {
+        "ref": "0x0C24C4",
+        "offset": "0x052724",
+        "japanese": {
+          "$rom_cp932": [
+            337700,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24C8",
+        "offset": "0x052710",
+        "japanese": {
+          "$rom_cp932": [
+            337680,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C24CC",
+        "offset": "0x0526FC",
+        "japanese": {
+          "$rom_cp932": [
+            337660,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24D0",
+        "offset": "0x0526E8",
+        "japanese": {
+          "$rom_cp932": [
+            337640,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24D4",
+        "offset": "0x0526D8",
+        "japanese": {
+          "$rom_cp932": [
+            330178,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C24D8",
+        "offset": "0x0526C4",
+        "japanese": {
+          "$rom_cp932": [
+            337604,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24DC",
+        "offset": "0x0526B0",
+        "japanese": {
+          "$rom_cp932": [
+            337584,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24E0",
+        "offset": "0x0526A4",
+        "japanese": {
+          "$rom_cp932": [
+            337572,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C24E8",
+    "end_ref": "0x0C2504",
+    "entries": [
+      {
+        "ref": "0x0C24E8",
+        "offset": "0x052690",
+        "japanese": {
+          "$rom_cp932": [
+            337552,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24EC",
+        "offset": "0x05267C",
+        "japanese": {
+          "$rom_cp932": [
+            337532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24F0",
+        "offset": "0x052668",
+        "japanese": {
+          "$rom_cp932": [
+            337512,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24F4",
+        "offset": "0x052658",
+        "japanese": {
+          "$rom_cp932": [
+            337496,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C24F8",
+        "offset": "0x052644",
+        "japanese": {
+          "$rom_cp932": [
+            337476,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C24FC",
+        "offset": "0x052630",
+        "japanese": {
+          "$rom_cp932": [
+            337456,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2500",
+        "offset": "0x05261C",
+        "japanese": {
+          "$rom_cp932": [
+            337436,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2504",
+        "offset": "0x05260C",
+        "japanese": {
+          "$rom_cp932": [
+            337420,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C250C",
+    "end_ref": "0x0C2524",
+    "entries": [
+      {
+        "ref": "0x0C250C",
+        "offset": "0x0525F8",
+        "japanese": {
+          "$rom_cp932": [
+            337400,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2510",
+        "offset": "0x0525E4",
+        "japanese": {
+          "$rom_cp932": [
+            337380,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2514",
+        "offset": "0x0525D0",
+        "japanese": {
+          "$rom_cp932": [
+            337360,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2518",
+        "offset": "0x0525C0",
+        "japanese": {
+          "$rom_cp932": [
+            337344,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C251C",
+        "offset": "0x0525AC",
+        "japanese": {
+          "$rom_cp932": [
+            337324,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2520",
+        "offset": "0x052598",
+        "japanese": {
+          "$rom_cp932": [
+            337304,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2524",
+        "offset": "0x052584",
+        "japanese": {
+          "$rom_cp932": [
+            337284,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2530",
+    "end_ref": "0x0C254C",
+    "entries": [
+      {
+        "ref": "0x0C2530",
+        "offset": "0x052570",
+        "japanese": {
+          "$rom_cp932": [
+            337264,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2534",
+        "offset": "0x05255C",
+        "japanese": {
+          "$rom_cp932": [
+            337244,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2538",
+        "offset": "0x052548",
+        "japanese": {
+          "$rom_cp932": [
+            337224,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C253C",
+        "offset": "0x052534",
+        "japanese": {
+          "$rom_cp932": [
+            337204,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2540",
+        "offset": "0x05252C",
+        "japanese": {
+          "$rom_cp932": [
+            337196,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2544",
+        "offset": "0x052518",
+        "japanese": {
+          "$rom_cp932": [
+            337176,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2548",
+        "offset": "0x052504",
+        "japanese": {
+          "$rom_cp932": [
+            337156,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C254C",
+        "offset": "0x0524F0",
+        "japanese": {
+          "$rom_cp932": [
+            337136,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2554",
+    "end_ref": "0x0C256C",
+    "entries": [
+      {
+        "ref": "0x0C2554",
+        "offset": "0x0524DC",
+        "japanese": {
+          "$rom_cp932": [
+            337116,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2558",
+        "offset": "0x0524C8",
+        "japanese": {
+          "$rom_cp932": [
+            337096,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C255C",
+        "offset": "0x0524B4",
+        "japanese": {
+          "$rom_cp932": [
+            337076,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2560",
+        "offset": "0x0524A0",
+        "japanese": {
+          "$rom_cp932": [
+            337056,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2564",
+        "offset": "0x05248C",
+        "japanese": {
+          "$rom_cp932": [
+            337036,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2568",
+        "offset": "0x052478",
+        "japanese": {
+          "$rom_cp932": [
+            337016,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C256C",
+        "offset": "0x052A88",
+        "japanese": {
+          "$rom_cp932": [
+            330180,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2578",
+    "end_ref": "0x0C2594",
+    "entries": [
+      {
+        "ref": "0x0C2578",
+        "offset": "0x052464",
+        "japanese": {
+          "$rom_cp932": [
+            336996,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C257C",
+        "offset": "0x052450",
+        "japanese": {
+          "$rom_cp932": [
+            336976,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2580",
+        "offset": "0x05243C",
+        "japanese": {
+          "$rom_cp932": [
+            336956,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2584",
+        "offset": "0x052428",
+        "japanese": {
+          "$rom_cp932": [
+            336936,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2588",
+        "offset": "0x052414",
+        "japanese": {
+          "$rom_cp932": [
+            336916,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C258C",
+        "offset": "0x052404",
+        "japanese": {
+          "$rom_cp932": [
+            336900,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2590",
+        "offset": "0x0523F0",
+        "japanese": {
+          "$rom_cp932": [
+            336880,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2594",
+        "offset": "0x0523E0",
+        "japanese": {
+          "$rom_cp932": [
+            336864,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C259C",
+    "end_ref": "0x0C25B8",
+    "entries": [
+      {
+        "ref": "0x0C259C",
+        "offset": "0x0523CC",
+        "japanese": {
+          "$rom_cp932": [
+            336844,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25A0",
+        "offset": "0x0523B8",
+        "japanese": {
+          "$rom_cp932": [
+            336824,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25A4",
+        "offset": "0x0523A4",
+        "japanese": {
+          "$rom_cp932": [
+            336804,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25A8",
+        "offset": "0x052390",
+        "japanese": {
+          "$rom_cp932": [
+            336784,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C25AC",
+        "offset": "0x05237C",
+        "japanese": {
+          "$rom_cp932": [
+            336764,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25B0",
+        "offset": "0x052368",
+        "japanese": {
+          "$rom_cp932": [
+            336744,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25B4",
+        "offset": "0x052354",
+        "japanese": {
+          "$rom_cp932": [
+            336724,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25B8",
+        "offset": "0x052344",
+        "japanese": {
+          "$rom_cp932": [
+            336708,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C25C0",
+    "end_ref": "0x0C25DC",
+    "entries": [
+      {
+        "ref": "0x0C25C0",
+        "offset": "0x052330",
+        "japanese": {
+          "$rom_cp932": [
+            336688,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25C4",
+        "offset": "0x05231C",
+        "japanese": {
+          "$rom_cp932": [
+            336668,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25C8",
+        "offset": "0x052308",
+        "japanese": {
+          "$rom_cp932": [
+            336648,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25CC",
+        "offset": "0x0522F4",
+        "japanese": {
+          "$rom_cp932": [
+            336628,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25D0",
+        "offset": "0x0522E0",
+        "japanese": {
+          "$rom_cp932": [
+            336608,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25D4",
+        "offset": "0x0522CC",
+        "japanese": {
+          "$rom_cp932": [
+            336588,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25D8",
+        "offset": "0x0522B8",
+        "japanese": {
+          "$rom_cp932": [
+            336568,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25DC",
+        "offset": "0x0522A8",
+        "japanese": {
+          "$rom_cp932": [
+            336552,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C25E4",
+    "end_ref": "0x0C2600",
+    "entries": [
+      {
+        "ref": "0x0C25E4",
+        "offset": "0x052294",
+        "japanese": {
+          "$rom_cp932": [
+            336532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25E8",
+        "offset": "0x052280",
+        "japanese": {
+          "$rom_cp932": [
+            336512,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C25EC",
+        "offset": "0x05226C",
+        "japanese": {
+          "$rom_cp932": [
+            336492,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25F0",
+        "offset": "0x052258",
+        "japanese": {
+          "$rom_cp932": [
+            336472,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25F4",
+        "offset": "0x052244",
+        "japanese": {
+          "$rom_cp932": [
+            336452,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25F8",
+        "offset": "0x052230",
+        "japanese": {
+          "$rom_cp932": [
+            336432,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C25FC",
+        "offset": "0x05221C",
+        "japanese": {
+          "$rom_cp932": [
+            336412,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2600",
+        "offset": "0x052214",
+        "japanese": {
+          "$rom_cp932": [
+            237594,
+            4
+          ]
+        },
+        "bytes": "4"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2608",
+    "end_ref": "0x0C2624",
+    "entries": [
+      {
+        "ref": "0x0C2608",
+        "offset": "0x052200",
+        "japanese": {
+          "$rom_cp932": [
+            336384,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C260C",
+        "offset": "0x0521EC",
+        "japanese": {
+          "$rom_cp932": [
+            336364,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2610",
+        "offset": "0x0521D8",
+        "japanese": {
+          "$rom_cp932": [
+            336344,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2614",
+        "offset": "0x0521C4",
+        "japanese": {
+          "$rom_cp932": [
+            336324,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2618",
+        "offset": "0x0521B0",
+        "japanese": {
+          "$rom_cp932": [
+            336304,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C261C",
+        "offset": "0x05219C",
+        "japanese": {
+          "$rom_cp932": [
+            336284,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2620",
+        "offset": "0x052188",
+        "japanese": {
+          "$rom_cp932": [
+            336264,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2624",
+        "offset": "0x05217C",
+        "japanese": {
+          "$rom_cp932": [
+            334226,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C262C",
+    "end_ref": "0x0C2648",
+    "entries": [
+      {
+        "ref": "0x0C262C",
+        "offset": "0x052168",
+        "japanese": {
+          "$rom_cp932": [
+            336232,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2630",
+        "offset": "0x052154",
+        "japanese": {
+          "$rom_cp932": [
+            336212,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2634",
+        "offset": "0x052140",
+        "japanese": {
+          "$rom_cp932": [
+            336192,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2638",
+        "offset": "0x05212C",
+        "japanese": {
+          "$rom_cp932": [
+            336172,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C263C",
+        "offset": "0x052118",
+        "japanese": {
+          "$rom_cp932": [
+            336152,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2640",
+        "offset": "0x052104",
+        "japanese": {
+          "$rom_cp932": [
+            336132,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2644",
+        "offset": "0x0520F0",
+        "japanese": {
+          "$rom_cp932": [
+            336112,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2648",
+        "offset": "0x0520E0",
+        "japanese": {
+          "$rom_cp932": [
+            336096,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2650",
+    "end_ref": "0x0C2668",
+    "entries": [
+      {
+        "ref": "0x0C2650",
+        "offset": "0x0520CC",
+        "japanese": {
+          "$rom_cp932": [
+            336076,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2654",
+        "offset": "0x0520B8",
+        "japanese": {
+          "$rom_cp932": [
+            336056,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2658",
+        "offset": "0x0520AC",
+        "japanese": {
+          "$rom_cp932": [
+            330490,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C265C",
+        "offset": "0x052098",
+        "japanese": {
+          "$rom_cp932": [
+            336024,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2660",
+        "offset": "0x052084",
+        "japanese": {
+          "$rom_cp932": [
+            336004,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2664",
+        "offset": "0x052070",
+        "japanese": {
+          "$rom_cp932": [
+            335984,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2668",
+        "offset": "0x052060",
+        "japanese": {
+          "$rom_cp932": [
+            330176,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2674",
+    "end_ref": "0x0C2690",
+    "entries": [
+      {
+        "ref": "0x0C2674",
+        "offset": "0x05204C",
+        "japanese": {
+          "$rom_cp932": [
+            335948,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2678",
+        "offset": "0x052038",
+        "japanese": {
+          "$rom_cp932": [
+            335928,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C267C",
+        "offset": "0x052024",
+        "japanese": {
+          "$rom_cp932": [
+            335908,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2680",
+        "offset": "0x052010",
+        "japanese": {
+          "$rom_cp932": [
+            335888,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2684",
+        "offset": "0x051FFC",
+        "japanese": {
+          "$rom_cp932": [
+            335868,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2688",
+        "offset": "0x051FE8",
+        "japanese": {
+          "$rom_cp932": [
+            335848,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C268C",
+        "offset": "0x051FD4",
+        "japanese": {
+          "$rom_cp932": [
+            335828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2690",
+        "offset": "0x051FCC",
+        "japanese": {
+          "$rom_cp932": [
+            325828,
+            6
+          ]
+        },
+        "bytes": "6"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2698",
+    "end_ref": "0x0C26B4",
+    "entries": [
+      {
+        "ref": "0x0C2698",
+        "offset": "0x051FB8",
+        "japanese": {
+          "$rom_cp932": [
+            335800,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C269C",
+        "offset": "0x051FA4",
+        "japanese": {
+          "$rom_cp932": [
+            335780,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26A0",
+        "offset": "0x051F90",
+        "japanese": {
+          "$rom_cp932": [
+            335760,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26A4",
+        "offset": "0x051F88",
+        "japanese": {
+          "$rom_cp932": [
+            325876,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C26A8",
+        "offset": "0x051F74",
+        "japanese": {
+          "$rom_cp932": [
+            335732,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26AC",
+        "offset": "0x051F60",
+        "japanese": {
+          "$rom_cp932": [
+            335712,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26B0",
+        "offset": "0x051F4C",
+        "japanese": {
+          "$rom_cp932": [
+            335692,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26B4",
+        "offset": "0x051F40",
+        "japanese": {
+          "$rom_cp932": [
+            335590,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C26BC",
+    "end_ref": "0x0C26D8",
+    "entries": [
+      {
+        "ref": "0x0C26BC",
+        "offset": "0x051F2C",
+        "japanese": {
+          "$rom_cp932": [
+            335660,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26C0",
+        "offset": "0x051F18",
+        "japanese": {
+          "$rom_cp932": [
+            335640,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26C4",
+        "offset": "0x051F04",
+        "japanese": {
+          "$rom_cp932": [
+            335620,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26C8",
+        "offset": "0x051EF0",
+        "japanese": {
+          "$rom_cp932": [
+            335600,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26CC",
+        "offset": "0x051EE0",
+        "japanese": {
+          "$rom_cp932": [
+            335584,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C26D0",
+        "offset": "0x051ECC",
+        "japanese": {
+          "$rom_cp932": [
+            335564,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26D4",
+        "offset": "0x051EB8",
+        "japanese": {
+          "$rom_cp932": [
+            335544,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26D8",
+        "offset": "0x051EAC",
+        "japanese": {
+          "$rom_cp932": [
+            326736,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C26E0",
+    "end_ref": "0x0C26FC",
+    "entries": [
+      {
+        "ref": "0x0C26E0",
+        "offset": "0x051E98",
+        "japanese": {
+          "$rom_cp932": [
+            335512,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26E4",
+        "offset": "0x051E84",
+        "japanese": {
+          "$rom_cp932": [
+            335492,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26E8",
+        "offset": "0x051E70",
+        "japanese": {
+          "$rom_cp932": [
+            335472,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26EC",
+        "offset": "0x051E5C",
+        "japanese": {
+          "$rom_cp932": [
+            335452,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26F0",
+        "offset": "0x051E48",
+        "japanese": {
+          "$rom_cp932": [
+            335432,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26F4",
+        "offset": "0x051E34",
+        "japanese": {
+          "$rom_cp932": [
+            335412,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26F8",
+        "offset": "0x051E20",
+        "japanese": {
+          "$rom_cp932": [
+            335392,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C26FC",
+        "offset": "0x051F88",
+        "japanese": {
+          "$rom_cp932": [
+            325876,
+            6
+          ]
+        },
+        "bytes": "6"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2704",
+    "end_ref": "0x0C271C",
+    "entries": [
+      {
+        "ref": "0x0C2704",
+        "offset": "0x051E0C",
+        "japanese": {
+          "$rom_cp932": [
+            335372,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2708",
+        "offset": "0x051DF8",
+        "japanese": {
+          "$rom_cp932": [
+            335352,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C270C",
+        "offset": "0x051DE4",
+        "japanese": {
+          "$rom_cp932": [
+            335332,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2710",
+        "offset": "0x051DD0",
+        "japanese": {
+          "$rom_cp932": [
+            335312,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2714",
+        "offset": "0x051DBC",
+        "japanese": {
+          "$rom_cp932": [
+            335292,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2718",
+        "offset": "0x051DA8",
+        "japanese": {
+          "$rom_cp932": [
+            335272,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C271C",
+        "offset": "0x051D98",
+        "japanese": {
+          "$rom_cp932": [
+            335256,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2728",
+    "end_ref": "0x0C273C",
+    "entries": [
+      {
+        "ref": "0x0C2728",
+        "offset": "0x051D84",
+        "japanese": {
+          "$rom_cp932": [
+            335236,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C272C",
+        "offset": "0x051D70",
+        "japanese": {
+          "$rom_cp932": [
+            335216,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2730",
+        "offset": "0x051D5C",
+        "japanese": {
+          "$rom_cp932": [
+            335196,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2734",
+        "offset": "0x051D48",
+        "japanese": {
+          "$rom_cp932": [
+            335176,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2738",
+        "offset": "0x051D34",
+        "japanese": {
+          "$rom_cp932": [
+            335156,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C273C",
+        "offset": "0x051F40",
+        "japanese": {
+          "$rom_cp932": [
+            335590,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C274C",
+    "end_ref": "0x0C2764",
+    "entries": [
+      {
+        "ref": "0x0C274C",
+        "offset": "0x051D20",
+        "japanese": {
+          "$rom_cp932": [
+            335136,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2750",
+        "offset": "0x051D0C",
+        "japanese": {
+          "$rom_cp932": [
+            335116,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2754",
+        "offset": "0x051CF8",
+        "japanese": {
+          "$rom_cp932": [
+            335096,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2758",
+        "offset": "0x051CE4",
+        "japanese": {
+          "$rom_cp932": [
+            335076,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C275C",
+        "offset": "0x051CD0",
+        "japanese": {
+          "$rom_cp932": [
+            335056,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2760",
+        "offset": "0x051CBC",
+        "japanese": {
+          "$rom_cp932": [
+            335036,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2764",
+        "offset": "0x051CAC",
+        "japanese": {
+          "$rom_cp932": [
+            335020,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2770",
+    "end_ref": "0x0C278C",
+    "entries": [
+      {
+        "ref": "0x0C2770",
+        "offset": "0x051C98",
+        "japanese": {
+          "$rom_cp932": [
+            335000,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2774",
+        "offset": "0x051C84",
+        "japanese": {
+          "$rom_cp932": [
+            334980,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2778",
+        "offset": "0x051C70",
+        "japanese": {
+          "$rom_cp932": [
+            334960,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C277C",
+        "offset": "0x051C5C",
+        "japanese": {
+          "$rom_cp932": [
+            334940,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2780",
+        "offset": "0x051C48",
+        "japanese": {
+          "$rom_cp932": [
+            334920,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2784",
+        "offset": "0x051C34",
+        "japanese": {
+          "$rom_cp932": [
+            334900,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2788",
+        "offset": "0x051C20",
+        "japanese": {
+          "$rom_cp932": [
+            334880,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C278C",
+        "offset": "0x051C14",
+        "japanese": {
+          "$rom_cp932": [
+            334868,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2794",
+    "end_ref": "0x0C27B0",
+    "entries": [
+      {
+        "ref": "0x0C2794",
+        "offset": "0x051C00",
+        "japanese": {
+          "$rom_cp932": [
+            334848,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2798",
+        "offset": "0x051BEC",
+        "japanese": {
+          "$rom_cp932": [
+            334828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C279C",
+        "offset": "0x051BD8",
+        "japanese": {
+          "$rom_cp932": [
+            334808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27A0",
+        "offset": "0x051BC4",
+        "japanese": {
+          "$rom_cp932": [
+            334788,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27A4",
+        "offset": "0x051BB0",
+        "japanese": {
+          "$rom_cp932": [
+            334768,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27A8",
+        "offset": "0x051B9C",
+        "japanese": {
+          "$rom_cp932": [
+            334748,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27AC",
+        "offset": "0x051B88",
+        "japanese": {
+          "$rom_cp932": [
+            334728,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27B0",
+        "offset": "0x051B78",
+        "japanese": {
+          "$rom_cp932": [
+            332438,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C27B8",
+    "end_ref": "0x0C27D4",
+    "entries": [
+      {
+        "ref": "0x0C27B8",
+        "offset": "0x051B64",
+        "japanese": {
+          "$rom_cp932": [
+            334692,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27BC",
+        "offset": "0x051B50",
+        "japanese": {
+          "$rom_cp932": [
+            334672,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27C0",
+        "offset": "0x051B3C",
+        "japanese": {
+          "$rom_cp932": [
+            334652,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27C4",
+        "offset": "0x051B28",
+        "japanese": {
+          "$rom_cp932": [
+            334632,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27C8",
+        "offset": "0x051B14",
+        "japanese": {
+          "$rom_cp932": [
+            334612,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27CC",
+        "offset": "0x051B00",
+        "japanese": {
+          "$rom_cp932": [
+            334592,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27D0",
+        "offset": "0x051AEC",
+        "japanese": {
+          "$rom_cp932": [
+            334572,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27D4",
+        "offset": "0x052060",
+        "japanese": {
+          "$rom_cp932": [
+            330176,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C27DC",
+    "end_ref": "0x0C27F8",
+    "entries": [
+      {
+        "ref": "0x0C27DC",
+        "offset": "0x051AD8",
+        "japanese": {
+          "$rom_cp932": [
+            334552,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27E0",
+        "offset": "0x051AC4",
+        "japanese": {
+          "$rom_cp932": [
+            334532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27E4",
+        "offset": "0x0526D8",
+        "japanese": {
+          "$rom_cp932": [
+            330178,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C27E8",
+        "offset": "0x051AB0",
+        "japanese": {
+          "$rom_cp932": [
+            334512,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27EC",
+        "offset": "0x051A9C",
+        "japanese": {
+          "$rom_cp932": [
+            334492,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27F0",
+        "offset": "0x051A88",
+        "japanese": {
+          "$rom_cp932": [
+            334472,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27F4",
+        "offset": "0x051A74",
+        "japanese": {
+          "$rom_cp932": [
+            334452,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C27F8",
+        "offset": "0x051A64",
+        "japanese": {
+          "$rom_cp932": [
+            334436,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2800",
+    "end_ref": "0x0C281C",
+    "entries": [
+      {
+        "ref": "0x0C2800",
+        "offset": "0x051A50",
+        "japanese": {
+          "$rom_cp932": [
+            334416,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2804",
+        "offset": "0x051A3C",
+        "japanese": {
+          "$rom_cp932": [
+            334396,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2808",
+        "offset": "0x051A28",
+        "japanese": {
+          "$rom_cp932": [
+            334376,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C280C",
+        "offset": "0x051A14",
+        "japanese": {
+          "$rom_cp932": [
+            334356,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2810",
+        "offset": "0x051A00",
+        "japanese": {
+          "$rom_cp932": [
+            334336,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2814",
+        "offset": "0x0519EC",
+        "japanese": {
+          "$rom_cp932": [
+            334316,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2818",
+        "offset": "0x0519D8",
+        "japanese": {
+          "$rom_cp932": [
+            334296,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C281C",
+        "offset": "0x051B78",
+        "japanese": {
+          "$rom_cp932": [
+            332438,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2824",
+    "end_ref": "0x0C2840",
+    "entries": [
+      {
+        "ref": "0x0C2824",
+        "offset": "0x0519C4",
+        "japanese": {
+          "$rom_cp932": [
+            334276,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2828",
+        "offset": "0x0519B0",
+        "japanese": {
+          "$rom_cp932": [
+            334256,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C282C",
+        "offset": "0x05199C",
+        "japanese": {
+          "$rom_cp932": [
+            334236,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2830",
+        "offset": "0x051990",
+        "japanese": {
+          "$rom_cp932": [
+            334224,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2834",
+        "offset": "0x05197C",
+        "japanese": {
+          "$rom_cp932": [
+            334204,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2838",
+        "offset": "0x051968",
+        "japanese": {
+          "$rom_cp932": [
+            334184,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C283C",
+        "offset": "0x051954",
+        "japanese": {
+          "$rom_cp932": [
+            334164,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2840",
+        "offset": "0x052784",
+        "japanese": {
+          "$rom_cp932": [
+            327854,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2848",
+    "end_ref": "0x0C2864",
+    "entries": [
+      {
+        "ref": "0x0C2848",
+        "offset": "0x051940",
+        "japanese": {
+          "$rom_cp932": [
+            334144,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C284C",
+        "offset": "0x05192C",
+        "japanese": {
+          "$rom_cp932": [
+            334124,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2850",
+        "offset": "0x051918",
+        "japanese": {
+          "$rom_cp932": [
+            334104,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2854",
+        "offset": "0x051904",
+        "japanese": {
+          "$rom_cp932": [
+            334084,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2858",
+        "offset": "0x0518F0",
+        "japanese": {
+          "$rom_cp932": [
+            334064,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C285C",
+        "offset": "0x0518DC",
+        "japanese": {
+          "$rom_cp932": [
+            334044,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2860",
+        "offset": "0x0518C8",
+        "japanese": {
+          "$rom_cp932": [
+            334024,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2864",
+        "offset": "0x0518B4",
+        "japanese": {
+          "$rom_cp932": [
+            334004,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C286C",
+    "end_ref": "0x0C2888",
+    "entries": [
+      {
+        "ref": "0x0C286C",
+        "offset": "0x0518A0",
+        "japanese": {
+          "$rom_cp932": [
+            333984,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2870",
+        "offset": "0x05188C",
+        "japanese": {
+          "$rom_cp932": [
+            333964,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2874",
+        "offset": "0x051878",
+        "japanese": {
+          "$rom_cp932": [
+            333944,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2878",
+        "offset": "0x051868",
+        "japanese": {
+          "$rom_cp932": [
+            333928,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C287C",
+        "offset": "0x051854",
+        "japanese": {
+          "$rom_cp932": [
+            333908,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2880",
+        "offset": "0x051840",
+        "japanese": {
+          "$rom_cp932": [
+            333888,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2884",
+        "offset": "0x05182C",
+        "japanese": {
+          "$rom_cp932": [
+            333868,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2888",
+        "offset": "0x051818",
+        "japanese": {
+          "$rom_cp932": [
+            333848,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2890",
+    "end_ref": "0x0C28AC",
+    "entries": [
+      {
+        "ref": "0x0C2890",
+        "offset": "0x051804",
+        "japanese": {
+          "$rom_cp932": [
+            333828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2894",
+        "offset": "0x0517F0",
+        "japanese": {
+          "$rom_cp932": [
+            333808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2898",
+        "offset": "0x0526D8",
+        "japanese": {
+          "$rom_cp932": [
+            330178,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C289C",
+        "offset": "0x0517DC",
+        "japanese": {
+          "$rom_cp932": [
+            333788,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28A0",
+        "offset": "0x0517C8",
+        "japanese": {
+          "$rom_cp932": [
+            333768,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28A4",
+        "offset": "0x0517B4",
+        "japanese": {
+          "$rom_cp932": [
+            333748,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28A8",
+        "offset": "0x0517A0",
+        "japanese": {
+          "$rom_cp932": [
+            333728,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28AC",
+        "offset": "0x051794",
+        "japanese": {
+          "$rom_cp932": [
+            333716,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C28B4",
+    "end_ref": "0x0C28D0",
+    "entries": [
+      {
+        "ref": "0x0C28B4",
+        "offset": "0x051780",
+        "japanese": {
+          "$rom_cp932": [
+            333696,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28B8",
+        "offset": "0x05176C",
+        "japanese": {
+          "$rom_cp932": [
+            333676,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28BC",
+        "offset": "0x051758",
+        "japanese": {
+          "$rom_cp932": [
+            333656,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28C0",
+        "offset": "0x05174C",
+        "japanese": {
+          "$rom_cp932": [
+            333644,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C28C4",
+        "offset": "0x051738",
+        "japanese": {
+          "$rom_cp932": [
+            333624,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28C8",
+        "offset": "0x051724",
+        "japanese": {
+          "$rom_cp932": [
+            333604,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28CC",
+        "offset": "0x051710",
+        "japanese": {
+          "$rom_cp932": [
+            333584,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28D0",
+        "offset": "0x051700",
+        "japanese": {
+          "$rom_cp932": [
+            331594,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C28D8",
+    "end_ref": "0x0C28F4",
+    "entries": [
+      {
+        "ref": "0x0C28D8",
+        "offset": "0x0516EC",
+        "japanese": {
+          "$rom_cp932": [
+            333548,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28DC",
+        "offset": "0x0516D8",
+        "japanese": {
+          "$rom_cp932": [
+            333528,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28E0",
+        "offset": "0x0516C4",
+        "japanese": {
+          "$rom_cp932": [
+            333508,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28E4",
+        "offset": "0x0516B0",
+        "japanese": {
+          "$rom_cp932": [
+            333488,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28E8",
+        "offset": "0x05169C",
+        "japanese": {
+          "$rom_cp932": [
+            333468,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28EC",
+        "offset": "0x051688",
+        "japanese": {
+          "$rom_cp932": [
+            333448,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28F0",
+        "offset": "0x051674",
+        "japanese": {
+          "$rom_cp932": [
+            333428,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C28F4",
+        "offset": "0x051668",
+        "japanese": {
+          "$rom_cp932": [
+            327272,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C28FC",
+    "end_ref": "0x0C2914",
+    "entries": [
+      {
+        "ref": "0x0C28FC",
+        "offset": "0x051654",
+        "japanese": {
+          "$rom_cp932": [
+            333396,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2900",
+        "offset": "0x051640",
+        "japanese": {
+          "$rom_cp932": [
+            333376,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2904",
+        "offset": "0x051634",
+        "japanese": {
+          "$rom_cp932": [
+            333364,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2908",
+        "offset": "0x051620",
+        "japanese": {
+          "$rom_cp932": [
+            333344,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C290C",
+        "offset": "0x05160C",
+        "japanese": {
+          "$rom_cp932": [
+            333324,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2910",
+        "offset": "0x0515F8",
+        "japanese": {
+          "$rom_cp932": [
+            333304,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2914",
+        "offset": "0x0515E4",
+        "japanese": {
+          "$rom_cp932": [
+            330174,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2920",
+    "end_ref": "0x0C293C",
+    "entries": [
+      {
+        "ref": "0x0C2920",
+        "offset": "0x0515D0",
+        "japanese": {
+          "$rom_cp932": [
+            333264,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2924",
+        "offset": "0x0515BC",
+        "japanese": {
+          "$rom_cp932": [
+            333244,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2928",
+        "offset": "0x0515A8",
+        "japanese": {
+          "$rom_cp932": [
+            333224,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C292C",
+        "offset": "0x051594",
+        "japanese": {
+          "$rom_cp932": [
+            333204,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2930",
+        "offset": "0x051580",
+        "japanese": {
+          "$rom_cp932": [
+            333184,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2934",
+        "offset": "0x05156C",
+        "japanese": {
+          "$rom_cp932": [
+            333164,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2938",
+        "offset": "0x051558",
+        "japanese": {
+          "$rom_cp932": [
+            333144,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C293C",
+        "offset": "0x051548",
+        "japanese": {
+          "$rom_cp932": [
+            333128,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2944",
+    "end_ref": "0x0C2960",
+    "entries": [
+      {
+        "ref": "0x0C2944",
+        "offset": "0x051534",
+        "japanese": {
+          "$rom_cp932": [
+            333108,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2948",
+        "offset": "0x051520",
+        "japanese": {
+          "$rom_cp932": [
+            333088,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C294C",
+        "offset": "0x05150C",
+        "japanese": {
+          "$rom_cp932": [
+            333068,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2950",
+        "offset": "0x0514F8",
+        "japanese": {
+          "$rom_cp932": [
+            333048,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2954",
+        "offset": "0x0514E4",
+        "japanese": {
+          "$rom_cp932": [
+            333028,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2958",
+        "offset": "0x0514D0",
+        "japanese": {
+          "$rom_cp932": [
+            333008,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C295C",
+        "offset": "0x0514BC",
+        "japanese": {
+          "$rom_cp932": [
+            332988,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2960",
+        "offset": "0x051794",
+        "japanese": {
+          "$rom_cp932": [
+            333716,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2968",
+    "end_ref": "0x0C2980",
+    "entries": [
+      {
+        "ref": "0x0C2968",
+        "offset": "0x0514A8",
+        "japanese": {
+          "$rom_cp932": [
+            332968,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C296C",
+        "offset": "0x051494",
+        "japanese": {
+          "$rom_cp932": [
+            332948,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2970",
+        "offset": "0x051480",
+        "japanese": {
+          "$rom_cp932": [
+            332928,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2974",
+        "offset": "0x05146C",
+        "japanese": {
+          "$rom_cp932": [
+            332908,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2978",
+        "offset": "0x051458",
+        "japanese": {
+          "$rom_cp932": [
+            332888,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C297C",
+        "offset": "0x051444",
+        "japanese": {
+          "$rom_cp932": [
+            332868,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2980",
+        "offset": "0x051B78",
+        "japanese": {
+          "$rom_cp932": [
+            332438,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C298C",
+    "end_ref": "0x0C29A8",
+    "entries": [
+      {
+        "ref": "0x0C298C",
+        "offset": "0x051430",
+        "japanese": {
+          "$rom_cp932": [
+            332848,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2990",
+        "offset": "0x05141C",
+        "japanese": {
+          "$rom_cp932": [
+            332828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2994",
+        "offset": "0x051408",
+        "japanese": {
+          "$rom_cp932": [
+            332808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2998",
+        "offset": "0x052A88",
+        "japanese": {
+          "$rom_cp932": [
+            330180,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C299C",
+        "offset": "0x0513F4",
+        "japanese": {
+          "$rom_cp932": [
+            332788,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29A0",
+        "offset": "0x0513E0",
+        "japanese": {
+          "$rom_cp932": [
+            332768,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29A4",
+        "offset": "0x0513CC",
+        "japanese": {
+          "$rom_cp932": [
+            332748,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29A8",
+        "offset": "0x0513B8",
+        "japanese": {
+          "$rom_cp932": [
+            332728,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C29B0",
+    "end_ref": "0x0C29C8",
+    "entries": [
+      {
+        "ref": "0x0C29B0",
+        "offset": "0x0513A4",
+        "japanese": {
+          "$rom_cp932": [
+            332708,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29B4",
+        "offset": "0x051390",
+        "japanese": {
+          "$rom_cp932": [
+            332688,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29B8",
+        "offset": "0x05137C",
+        "japanese": {
+          "$rom_cp932": [
+            332668,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29BC",
+        "offset": "0x051368",
+        "japanese": {
+          "$rom_cp932": [
+            332648,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29C0",
+        "offset": "0x051354",
+        "japanese": {
+          "$rom_cp932": [
+            332628,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29C4",
+        "offset": "0x051340",
+        "japanese": {
+          "$rom_cp932": [
+            332608,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29C8",
+        "offset": "0x051330",
+        "japanese": {
+          "$rom_cp932": [
+            332592,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C29D4",
+    "end_ref": "0x0C29F0",
+    "entries": [
+      {
+        "ref": "0x0C29D4",
+        "offset": "0x05131C",
+        "japanese": {
+          "$rom_cp932": [
+            332572,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29D8",
+        "offset": "0x051308",
+        "japanese": {
+          "$rom_cp932": [
+            332552,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29DC",
+        "offset": "0x0512F4",
+        "japanese": {
+          "$rom_cp932": [
+            332532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29E0",
+        "offset": "0x0512E0",
+        "japanese": {
+          "$rom_cp932": [
+            332512,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29E4",
+        "offset": "0x0512CC",
+        "japanese": {
+          "$rom_cp932": [
+            332492,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29E8",
+        "offset": "0x0512B8",
+        "japanese": {
+          "$rom_cp932": [
+            332472,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29EC",
+        "offset": "0x0512A4",
+        "japanese": {
+          "$rom_cp932": [
+            332452,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29F0",
+        "offset": "0x051294",
+        "japanese": {
+          "$rom_cp932": [
+            332436,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C29F8",
+    "end_ref": "0x0C2A14",
+    "entries": [
+      {
+        "ref": "0x0C29F8",
+        "offset": "0x051280",
+        "japanese": {
+          "$rom_cp932": [
+            332416,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C29FC",
+        "offset": "0x05126C",
+        "japanese": {
+          "$rom_cp932": [
+            332396,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A00",
+        "offset": "0x051F88",
+        "japanese": {
+          "$rom_cp932": [
+            325876,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2A04",
+        "offset": "0x051258",
+        "japanese": {
+          "$rom_cp932": [
+            332376,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A08",
+        "offset": "0x051244",
+        "japanese": {
+          "$rom_cp932": [
+            332356,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A0C",
+        "offset": "0x051230",
+        "japanese": {
+          "$rom_cp932": [
+            332336,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A10",
+        "offset": "0x05121C",
+        "japanese": {
+          "$rom_cp932": [
+            332316,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A14",
+        "offset": "0x051208",
+        "japanese": {
+          "$rom_cp932": [
+            332296,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2A1C",
+    "end_ref": "0x0C2A34",
+    "entries": [
+      {
+        "ref": "0x0C2A1C",
+        "offset": "0x0511F4",
+        "japanese": {
+          "$rom_cp932": [
+            332276,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A20",
+        "offset": "0x0511E0",
+        "japanese": {
+          "$rom_cp932": [
+            332256,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A24",
+        "offset": "0x0511CC",
+        "japanese": {
+          "$rom_cp932": [
+            332236,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A28",
+        "offset": "0x0511B8",
+        "japanese": {
+          "$rom_cp932": [
+            332216,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A2C",
+        "offset": "0x0511A4",
+        "japanese": {
+          "$rom_cp932": [
+            332196,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A30",
+        "offset": "0x051190",
+        "japanese": {
+          "$rom_cp932": [
+            332176,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A34",
+        "offset": "0x05117C",
+        "japanese": {
+          "$rom_cp932": [
+            332156,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2A40",
+    "end_ref": "0x0C2A58",
+    "entries": [
+      {
+        "ref": "0x0C2A40",
+        "offset": "0x051168",
+        "japanese": {
+          "$rom_cp932": [
+            332136,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A44",
+        "offset": "0x051154",
+        "japanese": {
+          "$rom_cp932": [
+            332116,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A48",
+        "offset": "0x051140",
+        "japanese": {
+          "$rom_cp932": [
+            332096,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A4C",
+        "offset": "0x051134",
+        "japanese": {
+          "$rom_cp932": [
+            332084,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2A50",
+        "offset": "0x051120",
+        "japanese": {
+          "$rom_cp932": [
+            332064,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A54",
+        "offset": "0x05110C",
+        "japanese": {
+          "$rom_cp932": [
+            332044,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A58",
+        "offset": "0x051100",
+        "japanese": {
+          "$rom_cp932": [
+            326128,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2A64",
+    "end_ref": "0x0C2A80",
+    "entries": [
+      {
+        "ref": "0x0C2A64",
+        "offset": "0x0510EC",
+        "japanese": {
+          "$rom_cp932": [
+            332012,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A68",
+        "offset": "0x0510D8",
+        "japanese": {
+          "$rom_cp932": [
+            331992,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A6C",
+        "offset": "0x0510C4",
+        "japanese": {
+          "$rom_cp932": [
+            331972,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A70",
+        "offset": "0x0510B0",
+        "japanese": {
+          "$rom_cp932": [
+            331952,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A74",
+        "offset": "0x0510A0",
+        "japanese": {
+          "$rom_cp932": [
+            331936,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2A78",
+        "offset": "0x05108C",
+        "japanese": {
+          "$rom_cp932": [
+            331916,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A7C",
+        "offset": "0x051078",
+        "japanese": {
+          "$rom_cp932": [
+            331896,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A80",
+        "offset": "0x051FCC",
+        "japanese": {
+          "$rom_cp932": [
+            325828,
+            6
+          ]
+        },
+        "bytes": "6"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2A88",
+    "end_ref": "0x0C2AA4",
+    "entries": [
+      {
+        "ref": "0x0C2A88",
+        "offset": "0x051064",
+        "japanese": {
+          "$rom_cp932": [
+            331876,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A8C",
+        "offset": "0x051050",
+        "japanese": {
+          "$rom_cp932": [
+            331856,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A90",
+        "offset": "0x05103C",
+        "japanese": {
+          "$rom_cp932": [
+            331836,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A94",
+        "offset": "0x051028",
+        "japanese": {
+          "$rom_cp932": [
+            331816,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A98",
+        "offset": "0x051014",
+        "japanese": {
+          "$rom_cp932": [
+            331796,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2A9C",
+        "offset": "0x051008",
+        "japanese": {
+          "$rom_cp932": [
+            330488,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2AA0",
+        "offset": "0x050FF4",
+        "japanese": {
+          "$rom_cp932": [
+            331764,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AA4",
+        "offset": "0x050FE0",
+        "japanese": {
+          "$rom_cp932": [
+            331744,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2AAC",
+    "end_ref": "0x0C2AC8",
+    "entries": [
+      {
+        "ref": "0x0C2AAC",
+        "offset": "0x050FCC",
+        "japanese": {
+          "$rom_cp932": [
+            331724,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AB0",
+        "offset": "0x050FB8",
+        "japanese": {
+          "$rom_cp932": [
+            331704,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AB4",
+        "offset": "0x050FA4",
+        "japanese": {
+          "$rom_cp932": [
+            331684,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AB8",
+        "offset": "0x050F90",
+        "japanese": {
+          "$rom_cp932": [
+            331664,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2ABC",
+        "offset": "0x050F80",
+        "japanese": {
+          "$rom_cp932": [
+            331648,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2AC0",
+        "offset": "0x050F6C",
+        "japanese": {
+          "$rom_cp932": [
+            331628,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AC4",
+        "offset": "0x050F58",
+        "japanese": {
+          "$rom_cp932": [
+            331608,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AC8",
+        "offset": "0x050F44",
+        "japanese": {
+          "$rom_cp932": [
+            331588,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2AD0",
+    "end_ref": "0x0C2AEC",
+    "entries": [
+      {
+        "ref": "0x0C2AD0",
+        "offset": "0x050F30",
+        "japanese": {
+          "$rom_cp932": [
+            331568,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AD4",
+        "offset": "0x050F1C",
+        "japanese": {
+          "$rom_cp932": [
+            331548,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AD8",
+        "offset": "0x050F08",
+        "japanese": {
+          "$rom_cp932": [
+            331528,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2ADC",
+        "offset": "0x050EF4",
+        "japanese": {
+          "$rom_cp932": [
+            331508,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AE0",
+        "offset": "0x050EE0",
+        "japanese": {
+          "$rom_cp932": [
+            331488,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AE4",
+        "offset": "0x050ECC",
+        "japanese": {
+          "$rom_cp932": [
+            331468,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AE8",
+        "offset": "0x050EB8",
+        "japanese": {
+          "$rom_cp932": [
+            331448,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AEC",
+        "offset": "0x050EA8",
+        "japanese": {
+          "$rom_cp932": [
+            331432,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2AF4",
+    "end_ref": "0x0C2B0C",
+    "entries": [
+      {
+        "ref": "0x0C2AF4",
+        "offset": "0x050E94",
+        "japanese": {
+          "$rom_cp932": [
+            331412,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AF8",
+        "offset": "0x050E80",
+        "japanese": {
+          "$rom_cp932": [
+            331392,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2AFC",
+        "offset": "0x050E6C",
+        "japanese": {
+          "$rom_cp932": [
+            331372,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B00",
+        "offset": "0x050E58",
+        "japanese": {
+          "$rom_cp932": [
+            331352,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B04",
+        "offset": "0x050E44",
+        "japanese": {
+          "$rom_cp932": [
+            331332,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B08",
+        "offset": "0x050E30",
+        "japanese": {
+          "$rom_cp932": [
+            331312,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B0C",
+        "offset": "0x052784",
+        "japanese": {
+          "$rom_cp932": [
+            327854,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2B18",
+    "end_ref": "0x0C2B34",
+    "entries": [
+      {
+        "ref": "0x0C2B18",
+        "offset": "0x050E1C",
+        "japanese": {
+          "$rom_cp932": [
+            331292,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B1C",
+        "offset": "0x050E08",
+        "japanese": {
+          "$rom_cp932": [
+            331272,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B20",
+        "offset": "0x050DF4",
+        "japanese": {
+          "$rom_cp932": [
+            331252,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B24",
+        "offset": "0x050DE0",
+        "japanese": {
+          "$rom_cp932": [
+            331232,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B28",
+        "offset": "0x050DD0",
+        "japanese": {
+          "$rom_cp932": [
+            331216,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2B2C",
+        "offset": "0x050DBC",
+        "japanese": {
+          "$rom_cp932": [
+            331196,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B30",
+        "offset": "0x050DA8",
+        "japanese": {
+          "$rom_cp932": [
+            331176,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B34",
+        "offset": "0x050D9C",
+        "japanese": {
+          "$rom_cp932": [
+            331164,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2B3C",
+    "end_ref": "0x0C2B58",
+    "entries": [
+      {
+        "ref": "0x0C2B3C",
+        "offset": "0x050D88",
+        "japanese": {
+          "$rom_cp932": [
+            331144,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B40",
+        "offset": "0x050D74",
+        "japanese": {
+          "$rom_cp932": [
+            331124,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B44",
+        "offset": "0x050D60",
+        "japanese": {
+          "$rom_cp932": [
+            331104,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B48",
+        "offset": "0x050D4C",
+        "japanese": {
+          "$rom_cp932": [
+            331084,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B4C",
+        "offset": "0x050D38",
+        "japanese": {
+          "$rom_cp932": [
+            331064,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C2B50",
+        "offset": "0x050D24",
+        "japanese": {
+          "$rom_cp932": [
+            331044,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B54",
+        "offset": "0x050D10",
+        "japanese": {
+          "$rom_cp932": [
+            331024,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B58",
+        "offset": "0x050D00",
+        "japanese": {
+          "$rom_cp932": [
+            331008,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2B60",
+    "end_ref": "0x0C2B7C",
+    "entries": [
+      {
+        "ref": "0x0C2B60",
+        "offset": "0x050CEC",
+        "japanese": {
+          "$rom_cp932": [
+            330988,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B64",
+        "offset": "0x050CDC",
+        "japanese": {
+          "$rom_cp932": [
+            330972,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2B68",
+        "offset": "0x050CC8",
+        "japanese": {
+          "$rom_cp932": [
+            330952,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B6C",
+        "offset": "0x050CB4",
+        "japanese": {
+          "$rom_cp932": [
+            330932,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B70",
+        "offset": "0x050CA0",
+        "japanese": {
+          "$rom_cp932": [
+            330912,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B74",
+        "offset": "0x050C8C",
+        "japanese": {
+          "$rom_cp932": [
+            330892,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B78",
+        "offset": "0x050C78",
+        "japanese": {
+          "$rom_cp932": [
+            330872,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B7C",
+        "offset": "0x050C68",
+        "japanese": {
+          "$rom_cp932": [
+            330856,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2B84",
+    "end_ref": "0x0C2B9C",
+    "entries": [
+      {
+        "ref": "0x0C2B84",
+        "offset": "0x050C54",
+        "japanese": {
+          "$rom_cp932": [
+            330836,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B88",
+        "offset": "0x050C40",
+        "japanese": {
+          "$rom_cp932": [
+            330816,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B8C",
+        "offset": "0x050C2C",
+        "japanese": {
+          "$rom_cp932": [
+            330796,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B90",
+        "offset": "0x050C18",
+        "japanese": {
+          "$rom_cp932": [
+            330776,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B94",
+        "offset": "0x050C04",
+        "japanese": {
+          "$rom_cp932": [
+            330756,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B98",
+        "offset": "0x050BF0",
+        "japanese": {
+          "$rom_cp932": [
+            330736,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2B9C",
+        "offset": "0x052060",
+        "japanese": {
+          "$rom_cp932": [
+            330176,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2BA8",
+    "end_ref": "0x0C2BC4",
+    "entries": [
+      {
+        "ref": "0x0C2BA8",
+        "offset": "0x050BDC",
+        "japanese": {
+          "$rom_cp932": [
+            330716,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BAC",
+        "offset": "0x050BC8",
+        "japanese": {
+          "$rom_cp932": [
+            330696,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BB0",
+        "offset": "0x050BB4",
+        "japanese": {
+          "$rom_cp932": [
+            330676,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BB4",
+        "offset": "0x050BA0",
+        "japanese": {
+          "$rom_cp932": [
+            330656,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BB8",
+        "offset": "0x052060",
+        "japanese": {
+          "$rom_cp932": [
+            330176,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2BBC",
+        "offset": "0x050B8C",
+        "japanese": {
+          "$rom_cp932": [
+            330636,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BC0",
+        "offset": "0x050B78",
+        "japanese": {
+          "$rom_cp932": [
+            330616,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BC4",
+        "offset": "0x050B68",
+        "japanese": {
+          "$rom_cp932": [
+            330600,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2BCC",
+    "end_ref": "0x0C2BE8",
+    "entries": [
+      {
+        "ref": "0x0C2BCC",
+        "offset": "0x050B54",
+        "japanese": {
+          "$rom_cp932": [
+            330580,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BD0",
+        "offset": "0x050B40",
+        "japanese": {
+          "$rom_cp932": [
+            330560,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BD4",
+        "offset": "0x050B2C",
+        "japanese": {
+          "$rom_cp932": [
+            330540,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BD8",
+        "offset": "0x050B18",
+        "japanese": {
+          "$rom_cp932": [
+            330520,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BDC",
+        "offset": "0x050B04",
+        "japanese": {
+          "$rom_cp932": [
+            330500,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BE0",
+        "offset": "0x050AF4",
+        "japanese": {
+          "$rom_cp932": [
+            330484,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2BE4",
+        "offset": "0x050AE0",
+        "japanese": {
+          "$rom_cp932": [
+            330464,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BE8",
+        "offset": "0x050AD0",
+        "japanese": {
+          "$rom_cp932": [
+            330448,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2BF0",
+    "end_ref": "0x0C2C0C",
+    "entries": [
+      {
+        "ref": "0x0C2BF0",
+        "offset": "0x050ABC",
+        "japanese": {
+          "$rom_cp932": [
+            330428,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BF4",
+        "offset": "0x050AA8",
+        "japanese": {
+          "$rom_cp932": [
+            330408,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BF8",
+        "offset": "0x050A94",
+        "japanese": {
+          "$rom_cp932": [
+            330388,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2BFC",
+        "offset": "0x050A80",
+        "japanese": {
+          "$rom_cp932": [
+            330368,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C00",
+        "offset": "0x050A6C",
+        "japanese": {
+          "$rom_cp932": [
+            330348,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C04",
+        "offset": "0x050A58",
+        "japanese": {
+          "$rom_cp932": [
+            330328,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C08",
+        "offset": "0x050A44",
+        "japanese": {
+          "$rom_cp932": [
+            330308,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C0C",
+        "offset": "0x052BDC",
+        "japanese": {
+          "$rom_cp932": [
+            326130,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2C14",
+    "end_ref": "0x0C2C2C",
+    "entries": [
+      {
+        "ref": "0x0C2C14",
+        "offset": "0x050A30",
+        "japanese": {
+          "$rom_cp932": [
+            330288,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C18",
+        "offset": "0x050A1C",
+        "japanese": {
+          "$rom_cp932": [
+            330268,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C1C",
+        "offset": "0x050A08",
+        "japanese": {
+          "$rom_cp932": [
+            330248,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C20",
+        "offset": "0x0509F8",
+        "japanese": {
+          "$rom_cp932": [
+            330232,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2C24",
+        "offset": "0x0509E4",
+        "japanese": {
+          "$rom_cp932": [
+            330212,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C28",
+        "offset": "0x0509D0",
+        "japanese": {
+          "$rom_cp932": [
+            330192,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C2C",
+        "offset": "0x0509BC",
+        "japanese": {
+          "$rom_cp932": [
+            330172,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2C38",
+    "end_ref": "0x0C2C50",
+    "entries": [
+      {
+        "ref": "0x0C2C38",
+        "offset": "0x0509A8",
+        "japanese": {
+          "$rom_cp932": [
+            330152,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C3C",
+        "offset": "0x050994",
+        "japanese": {
+          "$rom_cp932": [
+            330132,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C40",
+        "offset": "0x050980",
+        "japanese": {
+          "$rom_cp932": [
+            330112,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C44",
+        "offset": "0x050970",
+        "japanese": {
+          "$rom_cp932": [
+            330096,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2C48",
+        "offset": "0x05095C",
+        "japanese": {
+          "$rom_cp932": [
+            330076,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C4C",
+        "offset": "0x050948",
+        "japanese": {
+          "$rom_cp932": [
+            330056,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C50",
+        "offset": "0x050934",
+        "japanese": {
+          "$rom_cp932": [
+            330036,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2C5C",
+    "end_ref": "0x0C2C74",
+    "entries": [
+      {
+        "ref": "0x0C2C5C",
+        "offset": "0x050920",
+        "japanese": {
+          "$rom_cp932": [
+            330016,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C60",
+        "offset": "0x05090C",
+        "japanese": {
+          "$rom_cp932": [
+            329996,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C64",
+        "offset": "0x0508F8",
+        "japanese": {
+          "$rom_cp932": [
+            329976,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C68",
+        "offset": "0x0508E4",
+        "japanese": {
+          "$rom_cp932": [
+            329956,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C6C",
+        "offset": "0x0508D0",
+        "japanese": {
+          "$rom_cp932": [
+            329936,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C70",
+        "offset": "0x0508BC",
+        "japanese": {
+          "$rom_cp932": [
+            329916,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C74",
+        "offset": "0x0508A8",
+        "japanese": {
+          "$rom_cp932": [
+            329896,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2C80",
+    "end_ref": "0x0C2C9C",
+    "entries": [
+      {
+        "ref": "0x0C2C80",
+        "offset": "0x050894",
+        "japanese": {
+          "$rom_cp932": [
+            329876,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C84",
+        "offset": "0x050880",
+        "japanese": {
+          "$rom_cp932": [
+            329856,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C88",
+        "offset": "0x05086C",
+        "japanese": {
+          "$rom_cp932": [
+            329836,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C8C",
+        "offset": "0x050858",
+        "japanese": {
+          "$rom_cp932": [
+            329816,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C90",
+        "offset": "0x050844",
+        "japanese": {
+          "$rom_cp932": [
+            329796,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C94",
+        "offset": "0x050830",
+        "japanese": {
+          "$rom_cp932": [
+            329776,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C98",
+        "offset": "0x05081C",
+        "japanese": {
+          "$rom_cp932": [
+            329756,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2C9C",
+        "offset": "0x05080C",
+        "japanese": {
+          "$rom_cp932": [
+            327270,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2CA4",
+    "end_ref": "0x0C2CC0",
+    "entries": [
+      {
+        "ref": "0x0C2CA4",
+        "offset": "0x0507F8",
+        "japanese": {
+          "$rom_cp932": [
+            329720,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CA8",
+        "offset": "0x0507E4",
+        "japanese": {
+          "$rom_cp932": [
+            329700,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CAC",
+        "offset": "0x0507D4",
+        "japanese": {
+          "$rom_cp932": [
+            329684,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2CB0",
+        "offset": "0x0507C0",
+        "japanese": {
+          "$rom_cp932": [
+            329664,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CB4",
+        "offset": "0x0507AC",
+        "japanese": {
+          "$rom_cp932": [
+            329644,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CB8",
+        "offset": "0x050798",
+        "japanese": {
+          "$rom_cp932": [
+            329624,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CBC",
+        "offset": "0x050784",
+        "japanese": {
+          "$rom_cp932": [
+            329604,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CC0",
+        "offset": "0x050778",
+        "japanese": {
+          "$rom_cp932": [
+            325826,
+            8
+          ]
+        },
+        "bytes": "8"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2CC8",
+    "end_ref": "0x0C2CE4",
+    "entries": [
+      {
+        "ref": "0x0C2CC8",
+        "offset": "0x050764",
+        "japanese": {
+          "$rom_cp932": [
+            329572,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CCC",
+        "offset": "0x050750",
+        "japanese": {
+          "$rom_cp932": [
+            329552,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CD0",
+        "offset": "0x05073C",
+        "japanese": {
+          "$rom_cp932": [
+            329532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CD4",
+        "offset": "0x050728",
+        "japanese": {
+          "$rom_cp932": [
+            329512,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CD8",
+        "offset": "0x052BDC",
+        "japanese": {
+          "$rom_cp932": [
+            326130,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C2CDC",
+        "offset": "0x050714",
+        "japanese": {
+          "$rom_cp932": [
+            329492,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CE0",
+        "offset": "0x050700",
+        "japanese": {
+          "$rom_cp932": [
+            329472,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CE4",
+        "offset": "0x051008",
+        "japanese": {
+          "$rom_cp932": [
+            330488,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2CEC",
+    "end_ref": "0x0C2D08",
+    "entries": [
+      {
+        "ref": "0x0C2CEC",
+        "offset": "0x0506EC",
+        "japanese": {
+          "$rom_cp932": [
+            329452,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CF0",
+        "offset": "0x0506D8",
+        "japanese": {
+          "$rom_cp932": [
+            329432,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CF4",
+        "offset": "0x0506C4",
+        "japanese": {
+          "$rom_cp932": [
+            329412,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2CF8",
+        "offset": "0x0506B4",
+        "japanese": {
+          "$rom_cp932": [
+            329396,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2CFC",
+        "offset": "0x0506A0",
+        "japanese": {
+          "$rom_cp932": [
+            329376,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D00",
+        "offset": "0x05068C",
+        "japanese": {
+          "$rom_cp932": [
+            329356,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D04",
+        "offset": "0x050678",
+        "japanese": {
+          "$rom_cp932": [
+            329336,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D08",
+        "offset": "0x050664",
+        "japanese": {
+          "$rom_cp932": [
+            329316,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2D10",
+    "end_ref": "0x0C2D2C",
+    "entries": [
+      {
+        "ref": "0x0C2D10",
+        "offset": "0x050650",
+        "japanese": {
+          "$rom_cp932": [
+            329296,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D14",
+        "offset": "0x050640",
+        "japanese": {
+          "$rom_cp932": [
+            329280,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2D18",
+        "offset": "0x05062C",
+        "japanese": {
+          "$rom_cp932": [
+            329260,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D1C",
+        "offset": "0x050618",
+        "japanese": {
+          "$rom_cp932": [
+            329240,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D20",
+        "offset": "0x050604",
+        "japanese": {
+          "$rom_cp932": [
+            329220,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D24",
+        "offset": "0x051EAC",
+        "japanese": {
+          "$rom_cp932": [
+            326736,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2D28",
+        "offset": "0x0505F0",
+        "japanese": {
+          "$rom_cp932": [
+            329200,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D2C",
+        "offset": "0x0505DC",
+        "japanese": {
+          "$rom_cp932": [
+            329180,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2D34",
+    "end_ref": "0x0C2D50",
+    "entries": [
+      {
+        "ref": "0x0C2D34",
+        "offset": "0x0505C8",
+        "japanese": {
+          "$rom_cp932": [
+            329160,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D38",
+        "offset": "0x0505B4",
+        "japanese": {
+          "$rom_cp932": [
+            329140,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D3C",
+        "offset": "0x0505A0",
+        "japanese": {
+          "$rom_cp932": [
+            329120,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D40",
+        "offset": "0x050590",
+        "japanese": {
+          "$rom_cp932": [
+            329104,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C2D44",
+        "offset": "0x05057C",
+        "japanese": {
+          "$rom_cp932": [
+            329084,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D48",
+        "offset": "0x050568",
+        "japanese": {
+          "$rom_cp932": [
+            329064,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D4C",
+        "offset": "0x050554",
+        "japanese": {
+          "$rom_cp932": [
+            329044,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D50",
+        "offset": "0x052A88",
+        "japanese": {
+          "$rom_cp932": [
+            330180,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2D58",
+    "end_ref": "0x0C2D74",
+    "entries": [
+      {
+        "ref": "0x0C2D58",
+        "offset": "0x050540",
+        "japanese": {
+          "$rom_cp932": [
+            329024,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D5C",
+        "offset": "0x05052C",
+        "japanese": {
+          "$rom_cp932": [
+            329004,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D60",
+        "offset": "0x050518",
+        "japanese": {
+          "$rom_cp932": [
+            328984,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D64",
+        "offset": "0x052A88",
+        "japanese": {
+          "$rom_cp932": [
+            330180,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2D68",
+        "offset": "0x050504",
+        "japanese": {
+          "$rom_cp932": [
+            328964,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D6C",
+        "offset": "0x0504F0",
+        "japanese": {
+          "$rom_cp932": [
+            328944,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D70",
+        "offset": "0x0504DC",
+        "japanese": {
+          "$rom_cp932": [
+            328924,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D74",
+        "offset": "0x0504C8",
+        "japanese": {
+          "$rom_cp932": [
+            328904,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2D7C",
+    "end_ref": "0x0C2D98",
+    "entries": [
+      {
+        "ref": "0x0C2D7C",
+        "offset": "0x0504B4",
+        "japanese": {
+          "$rom_cp932": [
+            328884,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D80",
+        "offset": "0x0504A0",
+        "japanese": {
+          "$rom_cp932": [
+            328864,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D84",
+        "offset": "0x05048C",
+        "japanese": {
+          "$rom_cp932": [
+            328844,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D88",
+        "offset": "0x050478",
+        "japanese": {
+          "$rom_cp932": [
+            328824,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D8C",
+        "offset": "0x050464",
+        "japanese": {
+          "$rom_cp932": [
+            328804,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D90",
+        "offset": "0x050450",
+        "japanese": {
+          "$rom_cp932": [
+            328784,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D94",
+        "offset": "0x05043C",
+        "japanese": {
+          "$rom_cp932": [
+            328764,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2D98",
+        "offset": "0x050430",
+        "japanese": {
+          "$rom_cp932": [
+            328752,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2DA0",
+    "end_ref": "0x0C2DBC",
+    "entries": [
+      {
+        "ref": "0x0C2DA0",
+        "offset": "0x05041C",
+        "japanese": {
+          "$rom_cp932": [
+            328732,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DA4",
+        "offset": "0x050408",
+        "japanese": {
+          "$rom_cp932": [
+            328712,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DA8",
+        "offset": "0x0503F4",
+        "japanese": {
+          "$rom_cp932": [
+            328692,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DAC",
+        "offset": "0x0503E0",
+        "japanese": {
+          "$rom_cp932": [
+            328672,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DB0",
+        "offset": "0x051100",
+        "japanese": {
+          "$rom_cp932": [
+            326128,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2DB4",
+        "offset": "0x0503CC",
+        "japanese": {
+          "$rom_cp932": [
+            328652,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DB8",
+        "offset": "0x0503B8",
+        "japanese": {
+          "$rom_cp932": [
+            328632,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DBC",
+        "offset": "0x0503AC",
+        "japanese": {
+          "$rom_cp932": [
+            328620,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2DC4",
+    "end_ref": "0x0C2DE0",
+    "entries": [
+      {
+        "ref": "0x0C2DC4",
+        "offset": "0x050398",
+        "japanese": {
+          "$rom_cp932": [
+            328600,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DC8",
+        "offset": "0x050384",
+        "japanese": {
+          "$rom_cp932": [
+            328580,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DCC",
+        "offset": "0x050370",
+        "japanese": {
+          "$rom_cp932": [
+            328560,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DD0",
+        "offset": "0x05035C",
+        "japanese": {
+          "$rom_cp932": [
+            328540,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DD4",
+        "offset": "0x051FCC",
+        "japanese": {
+          "$rom_cp932": [
+            325828,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2DD8",
+        "offset": "0x050348",
+        "japanese": {
+          "$rom_cp932": [
+            328520,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DDC",
+        "offset": "0x050334",
+        "japanese": {
+          "$rom_cp932": [
+            328500,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DE0",
+        "offset": "0x051F88",
+        "japanese": {
+          "$rom_cp932": [
+            325876,
+            6
+          ]
+        },
+        "bytes": "6"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2DE8",
+    "end_ref": "0x0C2E04",
+    "entries": [
+      {
+        "ref": "0x0C2DE8",
+        "offset": "0x050320",
+        "japanese": {
+          "$rom_cp932": [
+            328480,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DEC",
+        "offset": "0x05030C",
+        "japanese": {
+          "$rom_cp932": [
+            328460,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DF0",
+        "offset": "0x050300",
+        "japanese": {
+          "$rom_cp932": [
+            328448,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2DF4",
+        "offset": "0x0502EC",
+        "japanese": {
+          "$rom_cp932": [
+            328428,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DF8",
+        "offset": "0x0502D8",
+        "japanese": {
+          "$rom_cp932": [
+            328408,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2DFC",
+        "offset": "0x0502C4",
+        "japanese": {
+          "$rom_cp932": [
+            328388,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E00",
+        "offset": "0x0502B0",
+        "japanese": {
+          "$rom_cp932": [
+            328368,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E04",
+        "offset": "0x050D00",
+        "japanese": {
+          "$rom_cp932": [
+            331008,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2E0C",
+    "end_ref": "0x0C2E28",
+    "entries": [
+      {
+        "ref": "0x0C2E0C",
+        "offset": "0x05029C",
+        "japanese": {
+          "$rom_cp932": [
+            328348,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E10",
+        "offset": "0x050288",
+        "japanese": {
+          "$rom_cp932": [
+            328328,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E14",
+        "offset": "0x050274",
+        "japanese": {
+          "$rom_cp932": [
+            328308,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E18",
+        "offset": "0x0509BC",
+        "japanese": {
+          "$rom_cp932": [
+            330172,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E1C",
+        "offset": "0x050260",
+        "japanese": {
+          "$rom_cp932": [
+            328288,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E20",
+        "offset": "0x05024C",
+        "japanese": {
+          "$rom_cp932": [
+            328268,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E24",
+        "offset": "0x050238",
+        "japanese": {
+          "$rom_cp932": [
+            328248,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E28",
+        "offset": "0x050228",
+        "japanese": {
+          "$rom_cp932": [
+            327138,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2E30",
+    "end_ref": "0x0C2E4C",
+    "entries": [
+      {
+        "ref": "0x0C2E30",
+        "offset": "0x050214",
+        "japanese": {
+          "$rom_cp932": [
+            328212,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E34",
+        "offset": "0x050200",
+        "japanese": {
+          "$rom_cp932": [
+            328192,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E38",
+        "offset": "0x0501F4",
+        "japanese": {
+          "$rom_cp932": [
+            328180,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C2E3C",
+        "offset": "0x0501E0",
+        "japanese": {
+          "$rom_cp932": [
+            328160,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E40",
+        "offset": "0x0501CC",
+        "japanese": {
+          "$rom_cp932": [
+            328140,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E44",
+        "offset": "0x0501B8",
+        "japanese": {
+          "$rom_cp932": [
+            328120,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E48",
+        "offset": "0x0501A4",
+        "japanese": {
+          "$rom_cp932": [
+            328100,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E4C",
+        "offset": "0x052060",
+        "japanese": {
+          "$rom_cp932": [
+            330176,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2E54",
+    "end_ref": "0x0C2E70",
+    "entries": [
+      {
+        "ref": "0x0C2E54",
+        "offset": "0x050190",
+        "japanese": {
+          "$rom_cp932": [
+            328080,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E58",
+        "offset": "0x05017C",
+        "japanese": {
+          "$rom_cp932": [
+            328060,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E5C",
+        "offset": "0x050168",
+        "japanese": {
+          "$rom_cp932": [
+            328040,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E60",
+        "offset": "0x052060",
+        "japanese": {
+          "$rom_cp932": [
+            330176,
+            14
+          ]
+        },
+        "bytes": "14"
+      },
+      {
+        "ref": "0x0C2E64",
+        "offset": "0x050154",
+        "japanese": {
+          "$rom_cp932": [
+            328020,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E68",
+        "offset": "0x050140",
+        "japanese": {
+          "$rom_cp932": [
+            328000,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E6C",
+        "offset": "0x05012C",
+        "japanese": {
+          "$rom_cp932": [
+            327980,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E70",
+        "offset": "0x05011C",
+        "japanese": {
+          "$rom_cp932": [
+            327964,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2E78",
+    "end_ref": "0x0C2E8C",
+    "entries": [
+      {
+        "ref": "0x0C2E78",
+        "offset": "0x050108",
+        "japanese": {
+          "$rom_cp932": [
+            327944,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E7C",
+        "offset": "0x0500F4",
+        "japanese": {
+          "$rom_cp932": [
+            327924,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E80",
+        "offset": "0x0500E0",
+        "japanese": {
+          "$rom_cp932": [
+            327904,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E84",
+        "offset": "0x0500CC",
+        "japanese": {
+          "$rom_cp932": [
+            327884,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E88",
+        "offset": "0x0500B8",
+        "japanese": {
+          "$rom_cp932": [
+            327864,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2E8C",
+        "offset": "0x0500A8",
+        "japanese": {
+          "$rom_cp932": [
+            327848,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2E9C",
+    "end_ref": "0x0C2EAC",
+    "entries": [
+      {
+        "ref": "0x0C2E9C",
+        "offset": "0x050094",
+        "japanese": {
+          "$rom_cp932": [
+            327828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EA0",
+        "offset": "0x050080",
+        "japanese": {
+          "$rom_cp932": [
+            327808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EA4",
+        "offset": "0x05006C",
+        "japanese": {
+          "$rom_cp932": [
+            327788,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EA8",
+        "offset": "0x050058",
+        "japanese": {
+          "$rom_cp932": [
+            327768,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EAC",
+        "offset": "0x051B78",
+        "japanese": {
+          "$rom_cp932": [
+            332438,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2EC0",
+    "end_ref": "0x0C2ED0",
+    "entries": [
+      {
+        "ref": "0x0C2EC0",
+        "offset": "0x050044",
+        "japanese": {
+          "$rom_cp932": [
+            327748,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EC4",
+        "offset": "0x050030",
+        "japanese": {
+          "$rom_cp932": [
+            327728,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EC8",
+        "offset": "0x05001C",
+        "japanese": {
+          "$rom_cp932": [
+            327708,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2ECC",
+        "offset": "0x050008",
+        "japanese": {
+          "$rom_cp932": [
+            327688,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2ED0",
+        "offset": "0x04FFF4",
+        "japanese": {
+          "$rom_cp932": [
+            327668,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2EE4",
+    "end_ref": "0x0C2EF4",
+    "entries": [
+      {
+        "ref": "0x0C2EE4",
+        "offset": "0x04FFE0",
+        "japanese": {
+          "$rom_cp932": [
+            327648,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EE8",
+        "offset": "0x04FFCC",
+        "japanese": {
+          "$rom_cp932": [
+            327628,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EEC",
+        "offset": "0x04FFB8",
+        "japanese": {
+          "$rom_cp932": [
+            327608,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EF0",
+        "offset": "0x04FFA4",
+        "japanese": {
+          "$rom_cp932": [
+            327588,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2EF4",
+        "offset": "0x04FF90",
+        "japanese": {
+          "$rom_cp932": [
+            327568,
+            16
+          ]
+        },
+        "bytes": "16"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2F08",
+    "end_ref": "0x0C2F24",
+    "entries": [
+      {
+        "ref": "0x0C2F08",
+        "offset": "0x04FF7C",
+        "japanese": {
+          "$rom_cp932": [
+            327548,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F0C",
+        "offset": "0x04FF68",
+        "japanese": {
+          "$rom_cp932": [
+            327528,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F10",
+        "offset": "0x04FF54",
+        "japanese": {
+          "$rom_cp932": [
+            327508,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F14",
+        "offset": "0x04FF40",
+        "japanese": {
+          "$rom_cp932": [
+            327488,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F18",
+        "offset": "0x04FF38",
+        "japanese": {
+          "$rom_cp932": [
+            326740,
+            6
+          ]
+        },
+        "bytes": "6"
+      },
+      {
+        "ref": "0x0C2F1C",
+        "offset": "0x04FF24",
+        "japanese": {
+          "$rom_cp932": [
+            327460,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F20",
+        "offset": "0x04FF10",
+        "japanese": {
+          "$rom_cp932": [
+            327440,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F24",
+        "offset": "0x04FF00",
+        "japanese": {
+          "$rom_cp932": [
+            327424,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2F2C",
+    "end_ref": "0x0C2F48",
+    "entries": [
+      {
+        "ref": "0x0C2F2C",
+        "offset": "0x04FEEC",
+        "japanese": {
+          "$rom_cp932": [
+            327404,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F30",
+        "offset": "0x04FED8",
+        "japanese": {
+          "$rom_cp932": [
+            327384,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F34",
+        "offset": "0x04FEC4",
+        "japanese": {
+          "$rom_cp932": [
+            327364,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F38",
+        "offset": "0x04FEB0",
+        "japanese": {
+          "$rom_cp932": [
+            327344,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F3C",
+        "offset": "0x04FE9C",
+        "japanese": {
+          "$rom_cp932": [
+            327324,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F40",
+        "offset": "0x04FE88",
+        "japanese": {
+          "$rom_cp932": [
+            327304,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F44",
+        "offset": "0x04FE74",
+        "japanese": {
+          "$rom_cp932": [
+            327284,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F48",
+        "offset": "0x04FE60",
+        "japanese": {
+          "$rom_cp932": [
+            327264,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2F50",
+    "end_ref": "0x0C2F68",
+    "entries": [
+      {
+        "ref": "0x0C2F50",
+        "offset": "0x04FE4C",
+        "japanese": {
+          "$rom_cp932": [
+            327244,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F54",
+        "offset": "0x04FE38",
+        "japanese": {
+          "$rom_cp932": [
+            327224,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F58",
+        "offset": "0x04FE2C",
+        "japanese": {
+          "$rom_cp932": [
+            327212,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2F5C",
+        "offset": "0x04FE18",
+        "japanese": {
+          "$rom_cp932": [
+            327192,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F60",
+        "offset": "0x04FE04",
+        "japanese": {
+          "$rom_cp932": [
+            327172,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F64",
+        "offset": "0x04FDF0",
+        "japanese": {
+          "$rom_cp932": [
+            327152,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F68",
+        "offset": "0x04FDDC",
+        "japanese": {
+          "$rom_cp932": [
+            327132,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2F74",
+    "end_ref": "0x0C2F8C",
+    "entries": [
+      {
+        "ref": "0x0C2F74",
+        "offset": "0x04FDC8",
+        "japanese": {
+          "$rom_cp932": [
+            327112,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F78",
+        "offset": "0x04FDB4",
+        "japanese": {
+          "$rom_cp932": [
+            327092,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F7C",
+        "offset": "0x04FDA8",
+        "japanese": {
+          "$rom_cp932": [
+            327080,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C2F80",
+        "offset": "0x04FD94",
+        "japanese": {
+          "$rom_cp932": [
+            327060,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F84",
+        "offset": "0x04FD80",
+        "japanese": {
+          "$rom_cp932": [
+            327040,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F88",
+        "offset": "0x04FD6C",
+        "japanese": {
+          "$rom_cp932": [
+            327020,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F8C",
+        "offset": "0x04FD58",
+        "japanese": {
+          "$rom_cp932": [
+            327000,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2F98",
+    "end_ref": "0x0C2FB0",
+    "entries": [
+      {
+        "ref": "0x0C2F98",
+        "offset": "0x04FD44",
+        "japanese": {
+          "$rom_cp932": [
+            326980,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2F9C",
+        "offset": "0x04FD30",
+        "japanese": {
+          "$rom_cp932": [
+            326960,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FA0",
+        "offset": "0x04FD24",
+        "japanese": {
+          "$rom_cp932": [
+            326948,
+            10
+          ]
+        },
+        "bytes": "10"
+      },
+      {
+        "ref": "0x0C2FA4",
+        "offset": "0x04FD10",
+        "japanese": {
+          "$rom_cp932": [
+            326928,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FA8",
+        "offset": "0x04FCFC",
+        "japanese": {
+          "$rom_cp932": [
+            326908,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FAC",
+        "offset": "0x04FCE8",
+        "japanese": {
+          "$rom_cp932": [
+            326888,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FB0",
+        "offset": "0x04FCD4",
+        "japanese": {
+          "$rom_cp932": [
+            326868,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2FBC",
+    "end_ref": "0x0C2FD4",
+    "entries": [
+      {
+        "ref": "0x0C2FBC",
+        "offset": "0x04FCC0",
+        "japanese": {
+          "$rom_cp932": [
+            326848,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FC0",
+        "offset": "0x04FCAC",
+        "japanese": {
+          "$rom_cp932": [
+            326828,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FC4",
+        "offset": "0x04FC98",
+        "japanese": {
+          "$rom_cp932": [
+            326808,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FC8",
+        "offset": "0x04FC84",
+        "japanese": {
+          "$rom_cp932": [
+            326788,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FCC",
+        "offset": "0x04FC70",
+        "japanese": {
+          "$rom_cp932": [
+            326768,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FD0",
+        "offset": "0x04FC5C",
+        "japanese": {
+          "$rom_cp932": [
+            326748,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FD4",
+        "offset": "0x04FC4C",
+        "japanese": {
+          "$rom_cp932": [
+            326732,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C2FE0",
+    "end_ref": "0x0C2FFC",
+    "entries": [
+      {
+        "ref": "0x0C2FE0",
+        "offset": "0x04FC38",
+        "japanese": {
+          "$rom_cp932": [
+            326712,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FE4",
+        "offset": "0x04FC24",
+        "japanese": {
+          "$rom_cp932": [
+            326692,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FE8",
+        "offset": "0x04FC10",
+        "japanese": {
+          "$rom_cp932": [
+            326672,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FEC",
+        "offset": "0x04FBFC",
+        "japanese": {
+          "$rom_cp932": [
+            326652,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FF0",
+        "offset": "0x04FBE8",
+        "japanese": {
+          "$rom_cp932": [
+            326632,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FF4",
+        "offset": "0x04FBD4",
+        "japanese": {
+          "$rom_cp932": [
+            326612,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FF8",
+        "offset": "0x04FBC0",
+        "japanese": {
+          "$rom_cp932": [
+            326592,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C2FFC",
+        "offset": "0x04FBAC",
+        "japanese": {
+          "$rom_cp932": [
+            326572,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C3004",
+    "end_ref": "0x0C3020",
+    "entries": [
+      {
+        "ref": "0x0C3004",
+        "offset": "0x04FB98",
+        "japanese": {
+          "$rom_cp932": [
+            326552,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3008",
+        "offset": "0x04FB84",
+        "japanese": {
+          "$rom_cp932": [
+            326532,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C300C",
+        "offset": "0x04FB74",
+        "japanese": {
+          "$rom_cp932": [
+            326516,
+            12
+          ]
+        },
+        "bytes": "12"
+      },
+      {
+        "ref": "0x0C3010",
+        "offset": "0x04FB60",
+        "japanese": {
+          "$rom_cp932": [
+            326496,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3014",
+        "offset": "0x04FB4C",
+        "japanese": {
+          "$rom_cp932": [
+            326476,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3018",
+        "offset": "0x04FB38",
+        "japanese": {
+          "$rom_cp932": [
+            326456,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C301C",
+        "offset": "0x04FB24",
+        "japanese": {
+          "$rom_cp932": [
+            326436,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3020",
+        "offset": "0x04FB14",
+        "japanese": {
+          "$rom_cp932": [
+            326420,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C3028",
+    "end_ref": "0x0C3044",
+    "entries": [
+      {
+        "ref": "0x0C3028",
+        "offset": "0x04FB00",
+        "japanese": {
+          "$rom_cp932": [
+            326400,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C302C",
+        "offset": "0x04FAEC",
+        "japanese": {
+          "$rom_cp932": [
+            326380,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3030",
+        "offset": "0x04FAD8",
+        "japanese": {
+          "$rom_cp932": [
+            326360,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3034",
+        "offset": "0x0515E4",
+        "japanese": {
+          "$rom_cp932": [
+            330174,
+            16
+          ]
+        },
+        "bytes": "16"
+      },
+      {
+        "ref": "0x0C3038",
+        "offset": "0x04FAC4",
+        "japanese": {
+          "$rom_cp932": [
+            326340,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C303C",
+        "offset": "0x04FAB0",
+        "japanese": {
+          "$rom_cp932": [
+            326320,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3040",
+        "offset": "0x04FA9C",
+        "japanese": {
+          "$rom_cp932": [
+            326300,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3044",
+        "offset": "0x04FA88",
+        "japanese": {
+          "$rom_cp932": [
+            326280,
+            18
+          ]
+        },
+        "bytes": "18"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C304C",
+    "end_ref": "0x0C3068",
+    "entries": [
+      {
+        "ref": "0x0C304C",
+        "offset": "0x04FA74",
+        "japanese": {
+          "$rom_cp932": [
+            326260,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3050",
+        "offset": "0x04FA60",
+        "japanese": {
+          "$rom_cp932": [
+            326240,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3054",
+        "offset": "0x04FA4C",
+        "japanese": {
+          "$rom_cp932": [
+            326220,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3058",
+        "offset": "0x04FA38",
+        "japanese": {
+          "$rom_cp932": [
+            326200,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C305C",
+        "offset": "0x04FA24",
+        "japanese": {
+          "$rom_cp932": [
+            326180,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3060",
+        "offset": "0x04FA10",
+        "japanese": {
+          "$rom_cp932": [
+            326160,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3064",
+        "offset": "0x04F9FC",
+        "japanese": {
+          "$rom_cp932": [
+            326140,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3068",
+        "offset": "0x04F9EC",
+        "japanese": {
+          "$rom_cp932": [
+            326124,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C3070",
+    "end_ref": "0x0C308C",
+    "entries": [
+      {
+        "ref": "0x0C3070",
+        "offset": "0x04F9D8",
+        "japanese": {
+          "$rom_cp932": [
+            326104,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3074",
+        "offset": "0x04F9C4",
+        "japanese": {
+          "$rom_cp932": [
+            326084,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3078",
+        "offset": "0x04F9B8",
+        "japanese": {
+          "$rom_cp932": [
+            326072,
+            8
+          ]
+        },
+        "bytes": "8"
+      },
+      {
+        "ref": "0x0C307C",
+        "offset": "0x04F9A4",
+        "japanese": {
+          "$rom_cp932": [
+            326052,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3080",
+        "offset": "0x04F990",
+        "japanese": {
+          "$rom_cp932": [
+            326032,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3084",
+        "offset": "0x04F97C",
+        "japanese": {
+          "$rom_cp932": [
+            326012,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3088",
+        "offset": "0x04F968",
+        "japanese": {
+          "$rom_cp932": [
+            325992,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C308C",
+        "offset": "0x04F958",
+        "japanese": {
+          "$rom_cp932": [
+            325976,
+            14
+          ]
+        },
+        "bytes": "14"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C3094",
+    "end_ref": "0x0C30B0",
+    "entries": [
+      {
+        "ref": "0x0C3094",
+        "offset": "0x04F944",
+        "japanese": {
+          "$rom_cp932": [
+            325956,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C3098",
+        "offset": "0x04F930",
+        "japanese": {
+          "$rom_cp932": [
+            325936,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C309C",
+        "offset": "0x04F91C",
+        "japanese": {
+          "$rom_cp932": [
+            325916,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30A0",
+        "offset": "0x04F908",
+        "japanese": {
+          "$rom_cp932": [
+            325896,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30A4",
+        "offset": "0x04F8F4",
+        "japanese": {
+          "$rom_cp932": [
+            325876,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30A8",
+        "offset": "0x04F8E0",
+        "japanese": {
+          "$rom_cp932": [
+            325856,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30AC",
+        "offset": "0x04F8CC",
+        "japanese": {
+          "$rom_cp932": [
+            325836,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30B0",
+        "offset": "0x04F8C0",
+        "japanese": {
+          "$rom_cp932": [
+            325824,
+            10
+          ]
+        },
+        "bytes": "10"
+      }
+    ]
+  },
+  {
+    "start_ref": "0x0C30B8",
+    "end_ref": "0x0C30D4",
+    "entries": [
+      {
+        "ref": "0x0C30B8",
+        "offset": "0x04F8AC",
+        "japanese": {
+          "$rom_cp932": [
+            325804,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30BC",
+        "offset": "0x04F898",
+        "japanese": {
+          "$rom_cp932": [
+            325784,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30C0",
+        "offset": "0x04F884",
+        "japanese": {
+          "$rom_cp932": [
+            325764,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30C4",
+        "offset": "0x04F870",
+        "japanese": {
+          "$rom_cp932": [
+            325744,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30C8",
+        "offset": "0x04F85C",
+        "japanese": {
+          "$rom_cp932": [
+            325724,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30CC",
+        "offset": "0x04F848",
+        "japanese": {
+          "$rom_cp932": [
+            325704,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30D0",
+        "offset": "0x04F834",
+        "japanese": {
+          "$rom_cp932": [
+            325684,
+            18
+          ]
+        },
+        "bytes": "18"
+      },
+      {
+        "ref": "0x0C30D4",
+        "offset": "0x04F824",
+        "japanese": {
+          "$rom_cp932": [
+            325668,
+            12
+          ]
+        },
+        "bytes": "12"
+      }
+    ]
+  }
+]

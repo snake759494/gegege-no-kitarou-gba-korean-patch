@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "palette": 386560,
+    "tilemap": 391360,
+    "tiles": 386592,
+    "obj_palette": 458432,
+    "obj_tiles": 458464
+  },
+  {
+    "id": 1,
+    "palette": 392640,
+    "tilemap": 398592,
+    "tiles": 392672,
+    "obj_palette": 460512,
+    "obj_tiles": 460544
+  },
+  {
+    "id": 2,
+    "palette": 399872,
+    "tilemap": 405344,
+    "tiles": 399904,
+    "obj_palette": 462592,
+    "obj_tiles": 462624
+  },
+  {
+    "id": 3,
+    "palette": 406624,
+    "tilemap": 410496,
+    "tiles": 406656,
+    "obj_palette": 464672,
+    "obj_tiles": 464704
+  },
+  {
+    "id": 4,
+    "palette": 411776,
+    "tilemap": 418752,
+    "tiles": 411808,
+    "obj_palette": 466752,
+    "obj_tiles": 466784
+  },
+  {
+    "id": 5,
+    "palette": 420032,
+    "tilemap": 425600,
+    "tiles": 420064,
+    "obj_palette": 468832,
+    "obj_tiles": 468864
+  },
+  {
+    "id": 6,
+    "palette": 426880,
+    "tilemap": 433088,
+    "tiles": 426912,
+    "obj_palette": 470912,
+    "obj_tiles": 470944
+  },
+  {
+    "id": 7,
+    "palette": 434368,
+    "tilemap": 441536,
+    "tiles": 434400,
+    "obj_palette": 472992,
+    "obj_tiles": 473024
+  },
+  {
+    "id": 8,
+    "palette": 442816,
+    "tilemap": 450464,
+    "tiles": 442848,
+    "obj_palette": 0,
+    "obj_tiles": 0
+  },
+  {
+    "id": 9,
+    "palette": 451744,
+    "tilemap": 457152,
+    "tiles": 451776,
+    "obj_palette": 475072,
+    "obj_tiles": 475104
+  }
+]

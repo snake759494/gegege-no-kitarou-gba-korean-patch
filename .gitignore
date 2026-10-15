@@ -1,0 +1,13 @@
+work/
+*.gba
+*.sav
+*.sgm
+*.exe
+*.dll
+*.bdf
+*.ttf
+*.otf
+*.bin
+*.xdelta
+__pycache__/
+*.pyc

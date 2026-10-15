@@ -1,0 +1,8 @@
+{
+  "version": "v1.0.0",
+  "method": "Published source tree, user-supplied original ROM and matching external fonts; tools/rebuild.py",
+  "reproduced_rom_sha256": "8fc91da197a79cd2e447c9fe38da12a12f361d4e257ceb1c81d76decfcb73307",
+  "matches_release": true,
+  "private_inputs_published": false,
+  "new_emulator_run_for_publication": false
+}

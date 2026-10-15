@@ -1,0 +1,36 @@
+{
+  "version": "v1.0.0",
+  "date": "2026-10-15",
+  "repository": "https://github.com/snake759494/gegege-no-kitarou-gba-korean-patch",
+  "files": {
+    "source": {
+      "file": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan).gba",
+      "size": 16777216,
+      "sha256": "7c6c4806b637e6326cfc7e242a38fc3d3dcc53abaab9be96b8388f04bf1976cc"
+    },
+    "output": {
+      "file": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba",
+      "size": 17354408,
+      "sha256": "8fc91da197a79cd2e447c9fe38da12a12f361d4e257ceb1c81d76decfcb73307"
+    },
+    "patch": {
+      "file": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta",
+      "size": 112952,
+      "sha256": "11fc2ed92f5be19bb91e1b3d7c4a627e58c4f41a522f51186796449a77990674"
+    }
+  },
+  "xdelta_options": [
+    "-0"
+  ],
+  "release_assets": [
+    "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta"
+  ],
+  "validation": {
+    "active_scenes": 50,
+    "dialogue_captures": 762,
+    "branch_cases": 93,
+    "credits_sections": 30,
+    "full_normal_playthrough": false,
+    "hardware_tested": false
+  }
+}

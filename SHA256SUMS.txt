@@ -1,0 +1,3 @@
+7c6c4806b637e6326cfc7e242a38fc3d3dcc53abaab9be96b8388f04bf1976cc  Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan).gba
+8fc91da197a79cd2e447c9fe38da12a12f361d4e257ceb1c81d76decfcb73307  Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba
+11fc2ed92f5be19bb91e1b3d7c4a627e58c4f41a522f51186796449a77990674  Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta
