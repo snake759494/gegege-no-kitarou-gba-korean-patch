@@ -7,12 +7,12 @@
 ## 적용 방법
 
 1. 직접 준비한 일본판 ROM의 SHA-256을 아래 `source` 값과 비교합니다.
-2. 릴리즈에서 `Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta` 하나를 받습니다.
+2. 릴리즈에서 `Gegege_no_Kitarou_GBA_KR.xdelta` 하나를 받습니다.
 3. xdelta UI에서 패치·원본 ROM·새 출력 파일을 지정해 적용합니다.
 4. 결과 해시를 확인하고 새로 부팅합니다. 기존 세이브 스테이트는 옛 코드나 그림을 유지할 수 있습니다.
 
 ```powershell
-./xdelta3.exe -d -s "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan).gba" "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta" "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba"
+./xdelta3.exe -d -s "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan).gba" "Gegege_no_Kitarou_GBA_KR.xdelta" "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba"
 Get-FileHash -Algorithm SHA256 "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba"
 ```
 

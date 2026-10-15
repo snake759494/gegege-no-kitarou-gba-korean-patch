@@ -16,7 +16,7 @@ python -X utf8 tools/rebuild.py
 패치 생성은 별도로 준비한 xdelta3로 실행합니다.
 
 ```powershell
-./xdelta3.exe -f -e -0 -s "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan).gba" "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba" "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta"
+./xdelta3.exe -f -e -0 -s "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan).gba" "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).gba" "Gegege_no_Kitarou_GBA_KR.xdelta"
 ```
 
 xdelta 버전이나 입력 파일 이름에 따라 패치 컨테이너의 바이트는 달라질 수 있습니다. ROM 결과 해시가 재현 기준입니다. 릴리즈 첨부 패치 자체의 해시는 SHA256SUMS.txt를 따릅니다.

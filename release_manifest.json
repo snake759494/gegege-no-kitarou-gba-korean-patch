@@ -14,7 +14,7 @@
       "sha256": "8fc91da197a79cd2e447c9fe38da12a12f361d4e257ceb1c81d76decfcb73307"
     },
     "patch": {
-      "file": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta",
+      "file": "Gegege_no_Kitarou_GBA_KR.xdelta",
       "size": 112952,
       "sha256": "11fc2ed92f5be19bb91e1b3d7c4a627e58c4f41a522f51186796449a77990674"
     }
@@ -23,7 +23,7 @@
     "-0"
   ],
   "release_assets": [
-    "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Korean).xdelta"
+    "Gegege_no_Kitarou_GBA_KR.xdelta"
   ],
   "validation": {
     "active_scenes": 50,
